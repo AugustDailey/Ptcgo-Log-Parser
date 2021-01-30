@@ -1,0 +1,19 @@
+{
+  "name": "ptcgo-log-parser",
+  "version": "0.1.0",
+  "description": "Module for parsing ptcgo logs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AugustDailey/Ptcgo-Log-Parser.git"
+  },
+  "author": "August Dailey",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AugustDailey/Ptcgo-Log-Parser/issues"
+  },
+  "homepage": "https://github.com/AugustDailey/Ptcgo-Log-Parser#readme"
+}
