@@ -1,4 +1,5 @@
-exports.parse = function(logs) {
+exports.parse = function(input) {
     console.log("This function has not been fully implemented.");
-    return {errors:[]}
+    var result = parser.parse(input);
+    return result;
   }
