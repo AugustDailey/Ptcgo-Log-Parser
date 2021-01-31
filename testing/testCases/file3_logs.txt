@@ -1,0 +1,3577 @@
+Game Log Output Begins Here:
+    1. Freememe flipped 1 coin(s), resulting in 0 heads and 1 tails, for Beginning of Game.
+    2. It is now P1's turn (Turn #1).
+    3. P1 drew Glimwood Tangle.
+    4. Freememe drew a card.
+    5. P1 drew Glimwood Tangle.
+    6. Freememe drew a card.
+    7. P1 drew Water Energy.
+    8. Freememe drew a card.
+    9. P1 drew Water Energy.
+    10. Freememe drew a card.
+    11. P1 drew Frosmoth.
+    12. Freememe drew a card.
+    13. P1 drew Pokémon Communication.
+    14. Freememe drew a card.
+    15. P1 drew Glimwood Tangle.
+    16. Freememe drew a card.
+    17. P1 drew Frosmoth.
+    18. P1 drew Snom.
+    19. P1 drew Capacious Bucket.
+    20. P1 drew Glimwood Tangle.
+    21. P1 drew Crobat V.
+    22. P1 drew Marnie.
+    23. P1 drew Snom.
+    24. Freememe drew a card.
+    25. Freememe drew a card.
+    26. Freememe drew a card.
+    27. Freememe drew a card.
+    28. Freememe drew a card.
+    29. Freememe drew a card.
+    30. Freememe drew a card.
+    31. Snom became P1's new Active Pokémon.
+    32. P1 drew Water Energy.
+    33. P1 put Snom onto the Bench.
+    34. P1 played Glimwood Tangle.
+    35. P1 put Crobat V onto the Bench.
+    36. P1 drew Wailord V.
+    37. P1 drew Marnie.
+    38. P1 put Wailord V onto the Bench.
+    39. P1 attached a Water Energy to Wailord V.
+    40. It is now Freememe's turn (Turn #2).
+    41. Freememe drew a card.
+    42. Freememe played Pokégear 3.0.
+    43. Freememe drew Professor's Research.
+    44. Freememe played Crushing Hammer.
+    45. Freememe flipped 1 coin(s), resulting in 0 heads and 1 tails, for Crushing Hammer.
+    46. Freememe played Green's Exploration.
+    47. Freememe drew Welder.
+    48. Freememe drew Power Plant.
+    49. Freememe played Power Plant.
+    50. Freememe played Quick Ball.
+    51. Freememe drew Centiskorch V.
+    52. Freememe put Centiskorch V onto the Bench.
+    53. Freememe attached a Fire Energy to Centiskorch V.
+    54. Freememe played Energy Spinner.
+    55. Freememe drew Fire Energy.
+    56. Freememe drew Fire Energy.
+    57. Freememe drew Fire Energy.
+    58. It is now P1's turn (Turn #3).
+    59. P1 drew Switch.
+    60. P1 put Frosmoth onto the Bench.
+    61. P1's Snom evolved into Frosmoth.
+    62. P1 played Capacious Bucket.
+    63. P1 drew Water Energy.
+    64. P1 drew Water Energy.
+    65. P1's Frosmoth used its Ice Dance Ability.
+    66. P1 attached a Water Energy to Wailord V.
+    67. P1 attached a Water Energy to Wailord V.
+    68. P1's Snom retreated.
+    69. P1 played Switch.
+    70. Wailord V became P1's new Active Pokémon.
+    71. P1 played Marnie.
+    72. P1 drew Crobat V.
+    73. P1 drew Cape of Toughness.
+    74. P1 drew Switch.
+    75. P1 drew Boss's Orders.
+    76. P1 drew Professor's Research.
+    77. Freememe drew a card.
+    78. Freememe drew a card.
+    79. Freememe drew a card.
+    80. Freememe drew a card.
+    81. P1 attached a Cape of Toughness to Wailord V.
+    82. P1 put Crobat V onto the Bench.
+    83. P1 drew Water Energy.
+    84. P1 drew Quick Ball.
+    85. P1 drew Professor's Research.
+    86. P1 attached a Water Energy to Wailord V.
+    87. P1 played Quick Ball.
+    88. P1 drew Dedenne-GX.
+    89. P1 put Dedenne-GX onto the Bench.
+    90. P1 flipped 3 coin(s), resulting in 2 heads and 1 tails, for Ocean Waves.
+    91. P1's Wailord V used Ocean Waves and did 480 damage to Freememe's Victini V.
+    92. Freememe's Victini V was Knocked Out.
+    93. P1 took a Prize card.
+    94. P1 took a Prize card.
+    95. Centiskorch V became Freememe's new Active Pokémon.
+    96. It is now Freememe's turn (Turn #4).
+    97. Freememe drew a card.
+    98. Freememe played Green's Exploration.
+    99. Freememe drew Evolution Incense.
+    100. Freememe drew Crushing Hammer.
+    101. Freememe played Crushing Hammer.
+    102. Freememe flipped 1 coin(s), resulting in 1 heads and 0 tails, for Crushing Hammer.
+    103. Freememe attached a Fire Energy to Centiskorch V.
+    104. Freememe played Evolution Incense.
+    105. Freememe drew Centiskorch VMAX.
+    106. Centiskorch VMAX became Freememe's new Active Pokémon.
+    107. Freememe's Centiskorch V evolved into Centiskorch VMAX.
+    108. Freememe's Centiskorch VMAX used its G-Max Centiferno attack.
+    109. It is now P1's turn (Turn #5).
+    110. P1 drew Pokémon Communication.
+    111. P1 attached a Water Energy to Wailord V.
+    112. P1 played Professor's Research.
+    113. P1 drew Water Energy.
+    114. P1 drew Wailord V.
+    115. P1 drew Frosmoth.
+    116. P1 drew Marnie.
+    117. P1 drew Switch.
+    118. P1 drew Pokémon Communication.
+    119. P1 drew Glimwood Tangle.
+    120. P1 put Frosmoth onto the Bench.
+    121. P1's Snom evolved into Frosmoth.
+    122. P1 played Glimwood Tangle.
+    123. P1 flipped 3 coin(s), resulting in 1 heads and 2 tails, for Ocean Waves.
+    124. P1's Wailord V used its Ocean Waves attack.
+    125. P1 flipped 3 coin(s), resulting in 0 heads and 3 tails, for .
+    126. It is now Freememe's turn (Turn #6).
+    127. Freememe drew a card.
+    128. Freememe attached a Fire Energy to Centiskorch VMAX.
+    129. Freememe played Professor's Research.
+    130. Freememe drew a card.
+    131. Freememe drew a card.
+    132. Freememe drew a card.
+    133. Freememe drew a card.
+    134. Freememe drew a card.
+    135. Freememe drew a card.
+    136. Freememe drew a card.
+    137. Freememe played Quick Ball.
+    138. Freememe drew Reshiram & Charizard-GX.
+    139. Freememe put Reshiram & Charizard-GX onto the Bench.
+    140. Freememe played Pokémon Catcher.
+    141. Freememe flipped 1 coin(s), resulting in 1 heads and 0 tails, for Pokémon Catcher.
+    142. P1's Wailord V retreated.
+    143. Crobat V became P1's new Active Pokémon.
+    144. Freememe's Centiskorch VMAX used its G-Max Centiferno attack.
+    145. Freememe attached a Fire Energy to Centiskorch VMAX.
+    146. It is now P1's turn (Turn #7).
+    147. P1 drew Dedenne-GX.
+    148. P1's Crobat V retreated.
+    149. P1 played Switch.
+    150. Wailord V became P1's new Active Pokémon.
+    151. P1 played Marnie.
+    152. P1 drew Wailord V.
+    153. P1 drew Pokémon Communication.
+    154. P1 drew Boss's Orders.
+    155. P1 drew Air Balloon.
+    156. P1 drew Wailord V.
+    157. Freememe drew a card.
+    158. Freememe drew a card.
+    159. Freememe drew a card.
+    160. Freememe drew a card.
+    161. P1 flipped 3 coin(s), resulting in 2 heads and 1 tails, for Ocean Waves.
+    162. P1's Wailord V used its Ocean Waves attack.
+    163. P1's Wailord V used Ocean Waves and did 480 damage to Freememe's Centiskorch VMAX.
+    164. Freememe's Centiskorch VMAX was Knocked Out.
+    165. P1 took a Prize card.
+    166. P1 took a Prize card.
+    167. P1 took a Prize card.
+    168. Reshiram & Charizard-GX became Freememe's new Active Pokémon.
+    169. It is now Freememe's turn (Turn #8).
+    170. Freememe drew a card.
+    171. Freememe played Crushing Hammer.
+    172. Freememe flipped 1 coin(s), resulting in 0 heads and 1 tails, for Crushing Hammer.
+    173. Freememe played Pokémon Catcher.
+    174. Freememe flipped 1 coin(s), resulting in 0 heads and 1 tails, for Pokémon Catcher.
+    175. Freememe played Green's Exploration.
+    176. Freememe drew Energy Spinner.
+    177. Freememe drew Reset Stamp.
+    178. Freememe played Reset Stamp.
+    179. P1 drew Marnie.
+    180. Freememe played Energy Spinner.
+    181. Freememe drew Fire Energy.
+    182. Freememe put Centiskorch V onto the Bench.
+    183. Freememe attached a Fire Energy to Reshiram & Charizard-GX.
+    184. It is now P1's turn (Turn #9).
+    185. P1 drew Boss's Orders.
+    186. Freememe's Reshiram & Charizard-GX retreated.
+    187. P1 played Boss's Orders.
+    188. Centiskorch V became Freememe's new Active Pokémon.
+    189. P1 flipped 3 coin(s), resulting in 2 heads and 1 tails, for Ocean Waves.
+    190. P1's Wailord V used its Ocean Waves attack.
+    191. P1 flipped 3 coin(s), resulting in 2 heads and 1 tails, for .
+    192. P1's Wailord V used Ocean Waves and did 480 damage to Freememe's Centiskorch V.
+    193. Freememe's Centiskorch V was Knocked Out.
+    194. P1 took a Prize card.
+    195. You took all of your Prize cards to win the game!
+
+Game Log Output Ends Here
+
+*** Debug Game Log Output Begins Here ***
+
+    Data For Entry Number: 1
+    Log Entry: Freememe flipped 1 coin(s), resulting in 0 heads and 1 tails, for Beginning of Game.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 2
+    Log Entry: It is now P1's turn (Turn #1).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 3
+    Log Entry: P1 drew Glimwood Tangle.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 4
+    Log Entry: Freememe drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 5
+    Log Entry: P1 drew Glimwood Tangle.
+    Source: 
+        Name: GlimwoodTangle
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 6
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 7
+    Log Entry: P1 drew Water Energy.
+    Source: 
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 8
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: FireEnergy
+        Set Name: <i>XY</i> Series
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 9
+    Log Entry: P1 drew Water Energy.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 10
+    Log Entry: Freememe drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 11
+    Log Entry: P1 drew Frosmoth.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 204
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 12
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: HyperPotion
+        Set Name: Sword & Shield
+        Set Number: 166
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 13
+    Log Entry: P1 drew Pokémon Communication.
+    Source: 
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 14
+    Log Entry: Freememe drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 15
+    Log Entry: P1 drew Glimwood Tangle.
+    Source: 
+        Name: GlimwoodTangle
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 16
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: FireEnergy
+        Set Name: <i>XY</i> Series
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 17
+    Log Entry: P1 drew Frosmoth.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 204
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 18
+    Log Entry: P1 drew Snom.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 19
+    Log Entry: P1 drew Capacious Bucket.
+    Source: 
+        Name: CapaciousBucket
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 156
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 20
+    Log Entry: P1 drew Glimwood Tangle.
+    Source: 
+        Name: GlimwoodTangle
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 21
+    Log Entry: P1 drew Crobat V.
+    Source: 
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 104
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 22
+    Log Entry: P1 drew Marnie.
+    Source: 
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 23
+    Log Entry: P1 drew Snom.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 24
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: CrushingHammer
+        Set Name: Sword & Shield
+        Set Number: 159
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 25
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: Pokegear30
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 182
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 26
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: GreensExploration
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 175
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 27
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: VictiniV
+        Set Name: Sword & Shield
+        Set Number: 025
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 28
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: FireEnergy
+        Set Name: <i>XY</i> Series
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 29
+    Log Entry: Freememe drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 30
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: EnergySpinner
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 170
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 31
+    Log Entry: Snom became P1's new Active Pokémon.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 32
+    Log Entry: P1 drew Water Energy.
+    Source: 
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 33
+    Log Entry: P1 put Snom onto the Bench.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 34
+    Log Entry: P1 played Glimwood Tangle.
+    Source: 
+        Name: GlimwoodTangle
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 35
+    Log Entry: P1 put Crobat V onto the Bench.
+    Source: 
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 104
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 36
+    Log Entry: P1 drew Wailord V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 37
+    Log Entry: P1 drew Marnie.
+    Source: 
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 38
+    Log Entry: P1 put Wailord V onto the Bench.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 39
+    Log Entry: P1 attached a Water Energy to Wailord V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 40
+    Log Entry: It is now Freememe's turn (Turn #2).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 41
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 42
+    Log Entry: Freememe played Pokégear 3.0.
+    Source: 
+        Name: Pokegear30
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 182
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 43
+    Log Entry: Freememe drew Professor's Research.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 44
+    Log Entry: Freememe played Crushing Hammer.
+    Source: 
+        Name: CrushingHammer
+        Set Name: Sword & Shield
+        Set Number: 159
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 45
+    Log Entry: Freememe flipped 1 coin(s), resulting in 0 heads and 1 tails, for Crushing Hammer.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 46
+    Log Entry: Freememe played Green's Exploration.
+    Source: 
+        Name: GreensExploration
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 175
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 47
+    Log Entry: Freememe drew Welder.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 48
+    Log Entry: Freememe drew Power Plant.
+    Source: 
+        Name: PowerPlant
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 49
+    Log Entry: Freememe played Power Plant.
+    Source: 
+        Name: PowerPlant
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 50
+    Log Entry: Freememe played Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 51
+    Log Entry: Freememe drew Centiskorch V.
+    Source: 
+        Name: CentiskorchV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 179
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 52
+    Log Entry: Freememe put Centiskorch V onto the Bench.
+    Source: 
+        Name: CentiskorchV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 179
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 53
+    Log Entry: Freememe attached a Fire Energy to Centiskorch V.
+    Source: 
+        Name: CentiskorchV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 179
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 54
+    Log Entry: Freememe played Energy Spinner.
+    Source: 
+        Name: EnergySpinner
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 170
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 55
+    Log Entry: Freememe drew Fire Energy.
+    Source: 
+        Name: FireEnergy
+        Set Name: <i>XY</i> Series
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 56
+    Log Entry: Freememe drew Fire Energy.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 57
+    Log Entry: Freememe drew Fire Energy.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 58
+    Log Entry: It is now P1's turn (Turn #3).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 59
+    Log Entry: P1 drew Switch.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 60
+    Log Entry: P1 put Frosmoth onto the Bench.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 204
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 61
+    Log Entry: P1's Snom evolved into Frosmoth.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 62
+    Log Entry: P1 played Capacious Bucket.
+    Source: 
+        Name: CapaciousBucket
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 156
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 63
+    Log Entry: P1 drew Water Energy.
+    Source: 
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 64
+    Log Entry: P1 drew Water Energy.
+    Source: 
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 65
+    Log Entry: P1's Frosmoth used its Ice Dance Ability.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 204
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 66
+    Log Entry: P1 attached a Water Energy to Wailord V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 67
+    Log Entry: P1 attached a Water Energy to Wailord V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 68
+    Log Entry: P1's Snom retreated.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 69
+    Log Entry: P1 played Switch.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 70
+    Log Entry: Wailord V became P1's new Active Pokémon.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 71
+    Log Entry: P1 played Marnie.
+    Source: 
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 72
+    Log Entry: P1 drew Crobat V.
+    Source: 
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 104
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 73
+    Log Entry: P1 drew Cape of Toughness.
+    Source: 
+        Name: CapeofToughness
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 160
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 74
+    Log Entry: P1 drew Switch.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 75
+    Log Entry: P1 drew Boss's Orders.
+    Source: 
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 76
+    Log Entry: P1 drew Professor's Research.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 77
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: GreensExploration
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 175
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 78
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: FireEnergy
+        Set Name: <i>XY</i> Series
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 79
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: HyperPotion
+        Set Name: Sword & Shield
+        Set Number: 166
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 80
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: TurboPatch
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 172
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 81
+    Log Entry: P1 attached a Cape of Toughness to Wailord V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 82
+    Log Entry: P1 put Crobat V onto the Bench.
+    Source: 
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 104
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 83
+    Log Entry: P1 drew Water Energy.
+    Source: 
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 84
+    Log Entry: P1 drew Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 85
+    Log Entry: P1 drew Professor's Research.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 86
+    Log Entry: P1 attached a Water Energy to Wailord V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 87
+    Log Entry: P1 played Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 88
+    Log Entry: P1 drew Dedenne-GX.
+    Source: 
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 89
+    Log Entry: P1 put Dedenne-GX onto the Bench.
+    Source: 
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 90
+    Log Entry: P1 flipped 3 coin(s), resulting in 2 heads and 1 tails, for Ocean Waves.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 91
+    Log Entry: P1's Wailord V used Ocean Waves and did 480 damage to Freememe's Victini V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: 
+        Name: VictiniV
+        Set Name: Sword & Shield
+        Set Number: 025
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 92
+    Log Entry: Freememe's Victini V was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 93
+    Log Entry: P1 took a Prize card.
+    Source: 
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 94
+    Log Entry: P1 took a Prize card.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 95
+    Log Entry: Centiskorch V became Freememe's new Active Pokémon.
+    Source: 
+        Name: CentiskorchV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 179
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 96
+    Log Entry: It is now Freememe's turn (Turn #4).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 97
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 98
+    Log Entry: Freememe played Green's Exploration.
+    Source: 
+        Name: GreensExploration
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 175
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 99
+    Log Entry: Freememe drew Evolution Incense.
+    Source: 
+        Name: EvolutionIncense
+        Set Name: Sword & Shield
+        Set Number: 163
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 100
+    Log Entry: Freememe drew Crushing Hammer.
+    Source: 
+        Name: CrushingHammer
+        Set Name: <i>Black & White—Emerging Powers</i>
+        Set Number: 092
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 101
+    Log Entry: Freememe played Crushing Hammer.
+    Source: 
+        Name: CrushingHammer
+        Set Name: <i>Black & White—Emerging Powers</i>
+        Set Number: 092
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 102
+    Log Entry: Freememe flipped 1 coin(s), resulting in 1 heads and 0 tails, for Crushing Hammer.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 103
+    Log Entry: Freememe attached a Fire Energy to Centiskorch V.
+    Source: 
+        Name: CentiskorchV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 179
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 104
+    Log Entry: Freememe played Evolution Incense.
+    Source: 
+        Name: EvolutionIncense
+        Set Name: Sword & Shield
+        Set Number: 163
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 105
+    Log Entry: Freememe drew Centiskorch VMAX.
+    Source: 
+        Name: CentiskorchVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 191
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 106
+    Log Entry: Centiskorch VMAX became Freememe's new Active Pokémon.
+    Source: 
+        Name: CentiskorchVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 191
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 107
+    Log Entry: Freememe's Centiskorch V evolved into Centiskorch VMAX.
+    Source: 
+        Name: CentiskorchV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 179
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target: 
+        Name: CentiskorchV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 179
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 108
+    Log Entry: Freememe's Centiskorch VMAX used its G-Max Centiferno attack.
+    Source: 
+        Name: CentiskorchVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 191
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 109
+    Log Entry: It is now P1's turn (Turn #5).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 110
+    Log Entry: P1 drew Pokémon Communication.
+    Source: 
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 111
+    Log Entry: P1 attached a Water Energy to Wailord V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 112
+    Log Entry: P1 played Professor's Research.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 113
+    Log Entry: P1 drew Water Energy.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 114
+    Log Entry: P1 drew Wailord V.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 115
+    Log Entry: P1 drew Frosmoth.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 204
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 116
+    Log Entry: P1 drew Marnie.
+    Source: 
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 117
+    Log Entry: P1 drew Switch.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 118
+    Log Entry: P1 drew Pokémon Communication.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 119
+    Log Entry: P1 drew Glimwood Tangle.
+    Source: 
+        Name: GlimwoodTangle
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 120
+    Log Entry: P1 put Frosmoth onto the Bench.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 204
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 121
+    Log Entry: P1's Snom evolved into Frosmoth.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 122
+    Log Entry: P1 played Glimwood Tangle.
+    Source: 
+        Name: GlimwoodTangle
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 123
+    Log Entry: P1 flipped 3 coin(s), resulting in 1 heads and 2 tails, for Ocean Waves.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 124
+    Log Entry: P1's Wailord V used its Ocean Waves attack.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 125
+    Log Entry: P1 flipped 3 coin(s), resulting in 0 heads and 3 tails, for .
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 126
+    Log Entry: It is now Freememe's turn (Turn #6).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 127
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: FireEnergy
+        Set Name: <i>XY</i> Series
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 128
+    Log Entry: Freememe attached a Fire Energy to Centiskorch VMAX.
+    Source: 
+        Name: CentiskorchVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 191
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 129
+    Log Entry: Freememe played Professor's Research.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 130
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: FireEnergy
+        Set Name: <i>XY</i> Series
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 131
+    Log Entry: Freememe drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 132
+    Log Entry: Freememe drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 133
+    Log Entry: Freememe drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 134
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 135
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: PokemonCatcher
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 126
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 136
+    Log Entry: Freememe drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 137
+    Log Entry: Freememe played Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 138
+    Log Entry: Freememe drew Reshiram & Charizard-GX.
+    Source: 
+        Name: ReshiramCharizardGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 020
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 139
+    Log Entry: Freememe put Reshiram & Charizard-GX onto the Bench.
+    Source: 
+        Name: ReshiramCharizardGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 020
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 140
+    Log Entry: Freememe played Pokémon Catcher.
+    Source: 
+        Name: PokemonCatcher
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 126
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 141
+    Log Entry: Freememe flipped 1 coin(s), resulting in 1 heads and 0 tails, for Pokémon Catcher.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 142
+    Log Entry: P1's Wailord V retreated.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 143
+    Log Entry: Crobat V became P1's new Active Pokémon.
+    Source: 
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 104
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 144
+    Log Entry: Freememe's Centiskorch VMAX used its G-Max Centiferno attack.
+    Source: 
+        Name: CentiskorchVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 191
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 145
+    Log Entry: Freememe attached a Fire Energy to Centiskorch VMAX.
+    Source: 
+        Name: CentiskorchVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 191
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 146
+    Log Entry: It is now P1's turn (Turn #7).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 147
+    Log Entry: P1 drew Dedenne-GX.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 148
+    Log Entry: P1's Crobat V retreated.
+    Source: 
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 104
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 149
+    Log Entry: P1 played Switch.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 150
+    Log Entry: Wailord V became P1's new Active Pokémon.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 151
+    Log Entry: P1 played Marnie.
+    Source: 
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 152
+    Log Entry: P1 drew Wailord V.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 153
+    Log Entry: P1 drew Pokémon Communication.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 154
+    Log Entry: P1 drew Boss's Orders.
+    Source: 
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 155
+    Log Entry: P1 drew Air Balloon.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 156
+    Log Entry: P1 drew Wailord V.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 157
+    Log Entry: Freememe drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 158
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: GreensExploration
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 175
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 159
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: CentiskorchV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 033
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 160
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: PokemonCatcher
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 126
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 161
+    Log Entry: P1 flipped 3 coin(s), resulting in 2 heads and 1 tails, for Ocean Waves.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 162
+    Log Entry: P1's Wailord V used its Ocean Waves attack.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 163
+    Log Entry: P1's Wailord V used Ocean Waves and did 480 damage to Freememe's Centiskorch VMAX.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: 
+        Name: CentiskorchVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 191
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 164
+    Log Entry: Freememe's Centiskorch VMAX was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 165
+    Log Entry: P1 took a Prize card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 166
+    Log Entry: P1 took a Prize card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 167
+    Log Entry: P1 took a Prize card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 168
+    Log Entry: Reshiram & Charizard-GX became Freememe's new Active Pokémon.
+    Source: 
+        Name: ReshiramCharizardGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 020
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 169
+    Log Entry: It is now Freememe's turn (Turn #8).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 170
+    Log Entry: Freememe drew a card.
+    Source: 
+        Name: CrushingHammer
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 171
+    Log Entry: Freememe played Crushing Hammer.
+    Source: 
+        Name: CrushingHammer
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 172
+    Log Entry: Freememe flipped 1 coin(s), resulting in 0 heads and 1 tails, for Crushing Hammer.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 173
+    Log Entry: Freememe played Pokémon Catcher.
+    Source: 
+        Name: PokemonCatcher
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 126
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 174
+    Log Entry: Freememe flipped 1 coin(s), resulting in 0 heads and 1 tails, for Pokémon Catcher.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 175
+    Log Entry: Freememe played Green's Exploration.
+    Source: 
+        Name: GreensExploration
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 175
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 176
+    Log Entry: Freememe drew Energy Spinner.
+    Source: 
+        Name: EnergySpinner
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 170
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 177
+    Log Entry: Freememe drew Reset Stamp.
+    Source: 
+        Name: ResetStamp
+        Set Name: Sun & Moon—Unified Minds
+        Set Number: 206
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 178
+    Log Entry: Freememe played Reset Stamp.
+    Source: 
+        Name: ResetStamp
+        Set Name: Sun & Moon—Unified Minds
+        Set Number: 206
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 179
+    Log Entry: P1 drew Marnie.
+    Source: 
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 180
+    Log Entry: Freememe played Energy Spinner.
+    Source: 
+        Name: EnergySpinner
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 170
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 181
+    Log Entry: Freememe drew Fire Energy.
+    Source: 
+        Name: FireEnergy
+        Set Name: <i>XY</i> Series
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 182
+    Log Entry: Freememe put Centiskorch V onto the Bench.
+    Source: 
+        Name: CentiskorchV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 033
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 183
+    Log Entry: Freememe attached a Fire Energy to Reshiram & Charizard-GX.
+    Source: 
+        Name: ReshiramCharizardGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 020
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 184
+    Log Entry: It is now P1's turn (Turn #9).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 185
+    Log Entry: P1 drew Boss's Orders.
+    Source: 
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 186
+    Log Entry: Freememe's Reshiram & Charizard-GX retreated.
+    Source: 
+        Name: ReshiramCharizardGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 020
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 187
+    Log Entry: P1 played Boss's Orders.
+    Source: 
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 188
+    Log Entry: Centiskorch V became Freememe's new Active Pokémon.
+    Source: 
+        Name: CentiskorchV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 033
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 189
+    Log Entry: P1 flipped 3 coin(s), resulting in 2 heads and 1 tails, for Ocean Waves.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 190
+    Log Entry: P1's Wailord V used its Ocean Waves attack.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 191
+    Log Entry: P1 flipped 3 coin(s), resulting in 2 heads and 1 tails, for .
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 192
+    Log Entry: P1's Wailord V used Ocean Waves and did 480 damage to Freememe's Centiskorch V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: 
+        Name: CentiskorchV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 033
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 193
+    Log Entry: Freememe's Centiskorch V was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 194
+    Log Entry: P1 took a Prize card.
+    Source: 
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 195
+    Log Entry: You took all of your Prize cards to win the game!
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+*** Debug Game Log Output Ends Here ***
+
+*** Debug Current Game State Output Begins Here ***
+
+*** Cards Data Begins Here ***
+
+    P1 Cards In Deck Cards (Count: 29)
+
+    P1 Cards In Discard (Count: 15) :
+    Top Card #1 in card group: 
+        Name: GlimwoodTangle
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #2 in card group:     
+        Name: CapaciousBucket
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 156
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #3 in card group:     
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #4 in card group:     
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #5 in card group:     
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #6 in card group:     
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #7 in card group:     
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #8 in card group:     
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #9 in card group:     
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #10 in card group:     
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #11 in card group:     
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #12 in card group:     
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #13 in card group:     
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #14 in card group:     
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #15 in card group:     
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+
+    P1 Active Pokemon (Count: 1) :
+    Top Card #1 in card group: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+        Card attached to Wailord V:
+
+            Card #1 in card group:     
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #2 in card group:     
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #3 in card group:     
+        Name: CapeofToughness
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 160
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #4 in card group:     
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #5 in card group:     
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+
+
+    P1 Bench Pokemon (Count: 5) :
+    Top Card #1 in card group: 
+        Name: Frosmoth
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 204
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+        Card attached to Frosmoth:
+
+            Card #1 in card group:     
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Card #2 in card group:     
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 104
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #3 in card group:     
+        Name: Frosmoth
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 204
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+        Card attached to Frosmoth:
+
+            Card #1 in card group:     
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Card #4 in card group:     
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 104
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #5 in card group:     
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    P1 Cards In Prize Pile (Count: 0) :
+
+    P1 Cards In Hand (Count: 2) :
+    Top Card #1 in card group: 
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #2 in card group:     
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+
+    P2 Cards In Deck Cards (Count: 23)
+
+    P2 Cards In Discard (Count: 28) :
+    Top Card #1 in card group: 
+        Name: Pokegear30
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 182
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #2 in card group:     
+        Name: CrushingHammer
+        Set Name: Sword & Shield
+        Set Number: 159
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #3 in card group:     
+        Name: GreensExploration
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 175
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #4 in card group:     
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #5 in card group:     
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #6 in card group:     
+        Name: EnergySpinner
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 170
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #7 in card group:     
+        Name: VictiniV
+        Set Name: Sword & Shield
+        Set Number: 025
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Card #8 in card group:     
+        Name: GreensExploration
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 175
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #9 in card group:     
+        Name: CrushingHammer
+        Set Name: <i>Black & White—Emerging Powers</i>
+        Set Number: 092
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #10 in card group:     
+        Name: EvolutionIncense
+        Set Name: Sword & Shield
+        Set Number: 163
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #11 in card group:     
+        Name: PowerPlant
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #12 in card group:     
+        Name: HyperPotion
+        Set Name: Sword & Shield
+        Set Number: 166
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #13 in card group:     
+        Name: TurboPatch
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 172
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #14 in card group:     
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #15 in card group:     
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #16 in card group:     
+        Name: PokemonCatcher
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 126
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #17 in card group:     
+        Name: FireEnergy
+        Set Name: <i>XY</i> Series
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Card #18 in card group:     
+        Name: FireEnergy
+        Set Name: <i>XY</i> Series
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Card #19 in card group:     
+        Name: FireEnergy
+        Set Name: <i>XY</i> Series
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Card #20 in card group:     
+        Name: FireEnergy
+        Set Name: <i>XY</i> Series
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Card #21 in card group:     
+        Name: CentiskorchV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 179
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Card #22 in card group:     
+        Name: CentiskorchVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 191
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Card #23 in card group:     
+        Name: CrushingHammer
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 115
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #24 in card group:     
+        Name: PokemonCatcher
+        Set Name: <i>Sun & Moon</i>
+        Set Number: 126
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #25 in card group:     
+        Name: GreensExploration
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 175
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #26 in card group:     
+        Name: ResetStamp
+        Set Name: Sun & Moon—Unified Minds
+        Set Number: 206
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #27 in card group:     
+        Name: EnergySpinner
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 170
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #28 in card group:     
+        Name: CentiskorchV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 033
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    P2 Active Pokemon (Count: 0) :
+
+    P2 Bench Pokemon (Count: 1) :
+    Top Card #1 in card group: 
+        Name: ReshiramCharizardGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 020
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Reshiram & Charizard-GX:
+
+            Card #1 in card group:     
+        Name: FireEnergy
+        Set Name: <i>XY</i> Series
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+
+
+    P2 Cards In Prize Pile (Count: 6) :
+    Card 1 not yet revealed
+    Card 2 not yet revealed
+    Card 3 not yet revealed
+    Card 4 not yet revealed
+    Card 5 not yet revealed
+    Card 6 not yet revealed
+
+    P2 Cards In Hand (Count: 1) :
+    Card 1 not yet revealed
+
+    All Player Area, Out Of Play Cards: (Count: 0) :
+
+    All Player Area, Stadium Cards: (Count: 1) :
+    Top Card #1 in card group: 
+        Name: GlimwoodTangle
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+
+    All Player Area, Active Trainer: (Count: 0) :
+
+*** Cards Data Ends Here ***
+
+
+*** Debug Current Game State Output Ends Here ***
+
+Versions Data:
+Client Version: 2.74.0.4997
+Server Version: 2.74.0.5179
+Bundles Version: 2111
+Archetypes Bundle Version: 14752
+Localization Bundle Version: 14756
+Current Game ID: 58e9b100-1596-11eb-b2b5-069ec13e38e1

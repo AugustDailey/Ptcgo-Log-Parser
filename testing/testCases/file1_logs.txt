@@ -1,0 +1,3991 @@
+Game Log Output Begins Here:
+    1. rikgief flipped 1 coin(s), resulting in 1 heads and 0 tails, for Beginning of Game.
+    2. It is now P1's turn (Turn #1).
+    3. rikgief drew a card.
+    4. P1 drew Bird Keeper.
+    5. rikgief drew a card.
+    6. P1 drew Dedenne-GX.
+    7. rikgief drew a card.
+    8. P1 drew Lightning Energy.
+    9. rikgief drew a card.
+    10. P1 drew Pokémon Communication.
+    11. rikgief drew a card.
+    12. P1 drew Toxtricity V.
+    13. rikgief drew a card.
+    14. P1 drew Croagunk.
+    15. rikgief drew a card.
+    16. P1 drew Marnie.
+    17. Toxtricity V became P1's new Active Pokémon.
+    18. P1 put Croagunk onto the Bench.
+    19. P1 drew Toxtricity VMAX.
+    20. P1 attached a Lightning Energy to Toxtricity V.
+    21. P1 played Pokémon Communication.
+    22. P1 drew Tapu Koko {*}.
+    23. P1 put Tapu Koko {*} onto the Bench.
+    24. P1 put Dedenne-GX onto the Bench.
+    25. P1 drew Switch.
+    26. P1 drew Pokémon Communication.
+    27. P1 drew Marnie.
+    28. P1 drew Lightning Energy.
+    29. P1 drew Lightning Energy.
+    30. P1 drew Switch.
+    31. It is now rikgief's turn (Turn #2).
+    32. rikgief drew a card.
+    33. rikgief put Lapras V onto the Bench.
+    34. rikgief's Lapras V retreated.
+    35. rikgief played Bird Keeper.
+    36. Lapras V became rikgief's new Active Pokémon.
+    37. rikgief drew a card.
+    38. rikgief drew a card.
+    39. rikgief drew a card.
+    40. rikgief played Quick Ball.
+    41. rikgief drew Snom.
+    42. rikgief put Snom onto the Bench.
+    43. rikgief played Chaotic Swell.
+    44. rikgief attached a Water Energy to Blastoise & Piplup-GX.
+    45. It is now P1's turn (Turn #3).
+    46. P1 drew Vitality Band.
+    47. P1 attached a Lightning Energy to Toxtricity V.
+    48. P1 attached a Vitality Band to Toxtricity V.
+    49. P1's Toxtricity V retreated.
+    50. P1 played Switch.
+    51. Croagunk became P1's new Active Pokémon.
+    52. P1 played Marnie.
+    53. P1 drew Speed Lightning Energy.
+    54. P1 drew Boss's Orders.
+    55. P1 drew Vitality Band.
+    56. P1 drew Dark City.
+    57. P1 drew Professor's Research.
+    58. rikgief drew a card.
+    59. rikgief drew a card.
+    60. rikgief drew a card.
+    61. rikgief drew a card.
+    62. P1 played Dark City.
+    63. It is now rikgief's turn (Turn #4).
+    64. rikgief drew a card.
+    65. rikgief put Frosmoth onto the Bench.
+    66. rikgief's Snom evolved into Frosmoth.
+    67. rikgief played Evolution Incense.
+    68. rikgief drew Lapras VMAX.
+    69. rikgief put Lapras VMAX onto the Bench.
+    70. rikgief's Lapras V evolved into Lapras VMAX.
+    71. rikgief's Frosmoth used its Ice Dance Ability.
+    72. rikgief attached a Water Energy to Blastoise & Piplup-GX.
+    73. rikgief attached a Water Energy to Blastoise & Piplup-GX.
+    74. It is now P1's turn (Turn #5).
+    75. P1 drew Marnie.
+    76. P1 attached a Speed Lightning Energy to Toxtricity V.
+    77. P1 drew Quick Ball.
+    78. P1 drew Speed Lightning Energy.
+    79. P1 played Quick Ball.
+    80. P1 drew Galarian Slowbro V.
+    81. P1 put Galarian Slowbro V onto the Bench.
+    82. P1 played Professor's Research.
+    83. P1 drew Croagunk.
+    84. P1 drew Speed Lightning Energy.
+    85. P1 drew Professor's Research.
+    86. P1 drew Speed Lightning Energy.
+    87. P1 drew Toxicroak.
+    88. P1 drew Switch.
+    89. P1 drew Toxtricity VMAX.
+    90. Toxicroak became P1's new Active Pokémon.
+    91. P1's Croagunk evolved into Toxicroak.
+    92. P1 put Toxtricity VMAX onto the Bench.
+    93. P1 attached a Vitality Band to Toxtricity VMAX.
+    94. P1's Toxtricity V evolved into Toxtricity VMAX.
+    95. P1's Toxicroak retreated.
+    96. P1 played Switch.
+    97. Toxtricity VMAX became P1's new Active Pokémon.
+    98. P1's Toxtricity VMAX used G-Max Riot and did 340 damage to rikgief's Lapras V.
+    99. rikgief's Lapras V was Knocked Out.
+    100. P1 took a Prize card.
+    101. P1 took a Prize card.
+    102. Blastoise & Piplup-GX became rikgief's new Active Pokémon.
+    103. It is now rikgief's turn (Turn #6).
+    104. rikgief drew a card.
+    105. rikgief attached a Water Energy to Lapras VMAX.
+    106. rikgief played Ordinary Rod.
+    107. P1's Toxtricity VMAX is now Paralyzed.
+    108. rikgief's Blastoise & Piplup-GX used Bubble Launcher GX and did 100 damage to P1's Toxtricity VMAX.
+    109. It is now P1's turn (Turn #7).
+    110. P1 drew Pokémon Communication.
+    111. P1 attached a Air Balloon to Galarian Slowbro V.
+    112. P1 attached a Speed Lightning Energy to Dedenne-GX.
+    113. P1 drew Lightning Energy.
+    114. P1 drew Lightning Energy.
+    115. P1 played Professor's Research.
+    116. P1 drew Dedenne-GX.
+    117. P1 drew Lightning Energy.
+    118. P1 drew Crobat V.
+    119. P1 drew Lightning Energy.
+    120. P1 drew Bird Keeper.
+    121. P1 drew Quick Ball.
+    122. P1 drew Pokémon Communication.
+    123. P1 put Dedenne-GX onto the Bench.
+    124. P1 drew Toxtricity VMAX.
+    125. P1 drew Toxicroak.
+    126. P1 drew Boss's Orders.
+    127. P1 drew Lightning Energy.
+    128. P1 drew Boss's Orders.
+    129. P1 drew Toxtricity V.
+    130. P1's Tapu Koko {*} used its Dance of the Ancients Ability.
+    131. P1 attached a Lightning Energy to Dedenne-GX.
+    132. P1 attached a Lightning Energy to Dedenne-GX.
+    133. P1's Tapu Koko {*} was moved to the Lost Zone.
+    134. P1 put Toxtricity V onto the Bench.
+    135. P1's Toxtricity VMAX is no longer Paralyzed.
+    136. It is now rikgief's turn (Turn #8).
+    137. rikgief drew a card.
+    138. rikgief's Blastoise & Piplup-GX used Splash Maker and did 150 damage to P1's Toxtricity VMAX.
+    139. It is now P1's turn (Turn #9).
+    140. P1 drew Quick Ball.
+    141. P1 put Toxtricity VMAX onto the Bench.
+    142. P1's Toxtricity V evolved into Toxtricity VMAX.
+    143. rikgief's Blastoise & Piplup-GX retreated.
+    144. P1 played Boss's Orders.
+    145. Lapras VMAX became rikgief's new Active Pokémon.
+    146. P1 attached a Lightning Energy to Toxtricity VMAX.
+    147. P1's Toxtricity VMAX used G-Max Riot and did 340 damage to rikgief's Lapras VMAX.
+    148. rikgief's Lapras VMAX was Knocked Out.
+    149. P1 took a Prize card.
+    150. P1 took a Prize card.
+    151. P1 took a Prize card.
+    152. Blastoise & Piplup-GX became rikgief's new Active Pokémon.
+    153. It is now rikgief's turn (Turn #10).
+    154. rikgief drew a card.
+    155. rikgief attached a Big Charm to Blastoise & Piplup-GX.
+    156. rikgief's Blastoise & Piplup-GX used Splash Maker and did 150 damage to P1's Toxtricity VMAX.
+    157. P1's Toxtricity VMAX was Knocked Out.
+    158. rikgief took a Prize card.
+    159. rikgief took a Prize card.
+    160. rikgief took a Prize card.
+    161. Galarian Slowbro V became P1's new Active Pokémon.
+    162. It is now P1's turn (Turn #11).
+    163. P1 drew Lightning Energy.
+    164. rikgief's Blastoise & Piplup-GX retreated.
+    165. P1 played Boss's Orders.
+    166. Frosmoth became rikgief's new Active Pokémon.
+    167. P1 played Dark City.
+    168. P1's Galarian Slowbro V used its Rapid-Fire Poison Ability.
+    169. rikgief's Frosmoth is now Poisoned.
+    170. P1's Galarian Slowbro V retreated.
+    171. P1 played Switch.
+    172. Dedenne-GX became P1's new Active Pokémon.
+    173. P1 attached a Lightning Energy to Toxtricity VMAX.
+    174. rikgief's Frosmoth is now Paralyzed.
+    175. P1's Dedenne-GX used Tingly Return GX and did 50 damage to rikgief's Frosmoth.
+    176. Galarian Slowbro V became P1's new Active Pokémon.
+    177. rikgief's Frosmoth took 30 damage because it was Poisoned.
+    178. It is now rikgief's turn (Turn #12).
+    179. rikgief drew a card.
+    180. rikgief's Frosmoth retreated.
+    181. rikgief played Switch.
+    182. rikgief's Frosmoth is no longer Paralyzed.
+    183. rikgief's Frosmoth is no longer Poisoned.
+    184. Blastoise & Piplup-GX became rikgief's new Active Pokémon.
+    185. rikgief played Ordinary Rod.
+    186. rikgief's Blastoise & Piplup-GX used its Splash Maker attack.
+    187. rikgief attached a Water Energy to Frosmoth.
+    188. rikgief's Frosmoth healed for 50.
+    189. rikgief attached a Water Energy to Frosmoth.
+    190. rikgief's Frosmoth healed for 30.
+    191. It is now P1's turn (Turn #13).
+    192. P1 drew Switch.
+    193. P1 attached a Speed Lightning Energy to Toxtricity VMAX.
+    194. P1 drew Galarian Slowbro V.
+    195. P1 drew Professor's Research.
+    196. P1's Galarian Slowbro V used its Rapid-Fire Poison Ability.
+    197. rikgief's Blastoise & Piplup-GX is now Poisoned.
+    198. P1 played Quick Ball.
+    199. P1's Galarian Slowbro V retreated.
+    200. Toxtricity VMAX became P1's new Active Pokémon.
+    201. P1's Toxtricity VMAX used G-Max Riot and did 240 damage to rikgief's Blastoise & Piplup-GX.
+    202. rikgief's Blastoise & Piplup-GX took 30 damage because it was Poisoned.
+    203. It is now rikgief's turn (Turn #14).
+    204. rikgief drew a card.
+    205. rikgief put Snom onto the Bench.
+    206. rikgief played Evolution Incense.
+    207. rikgief drew Frosmoth.
+    208. rikgief's Blastoise & Piplup-GX used Splash Maker and did 150 damage to P1's Toxtricity VMAX.
+    209. rikgief's Blastoise & Piplup-GX took 30 damage because it was Poisoned.
+    210. rikgief's Blastoise & Piplup-GX is no longer Poisoned.
+    211. rikgief's Blastoise & Piplup-GX was Knocked Out.
+    212. P1 took a Prize card.
+    213. You took all of your Prize cards to win the game!
+
+Game Log Output Ends Here
+
+*** Debug Game Log Output Begins Here ***
+
+    Data For Entry Number: 1
+    Log Entry: rikgief flipped 1 coin(s), resulting in 1 heads and 0 tails, for Beginning of Game.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 2
+    Log Entry: It is now P1's turn (Turn #1).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 3
+    Log Entry: rikgief drew a card.
+    Source: 
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 4
+    Log Entry: P1 drew Bird Keeper.
+    Source: 
+        Name: BirdKeeper
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 159
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 5
+    Log Entry: rikgief drew a card.
+    Source: 
+        Name: BirdKeeper
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 159
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 6
+    Log Entry: P1 drew Dedenne-GX.
+    Source: 
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 7
+    Log Entry: rikgief drew a card.
+    Source: 
+        Name: ChaoticSwell
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 187
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 8
+    Log Entry: P1 drew Lightning Energy.
+    Source: 
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 9
+    Log Entry: rikgief drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 10
+    Log Entry: P1 drew Pokémon Communication.
+    Source: 
+        Name: PokemonCommunication
+        Set Name: <i>Black & White</i>
+        Set Number: 099
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 11
+    Log Entry: rikgief drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 12
+    Log Entry: P1 drew Toxtricity V.
+    Source: 
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 13
+    Log Entry: rikgief drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 14
+    Log Entry: P1 drew Croagunk.
+    Source: 
+        Name: Croagunk
+        Set Name: Sword & Shield
+        Set Number: 123
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 15
+    Log Entry: rikgief drew a card.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 16
+    Log Entry: P1 drew Marnie.
+    Source: 
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 17
+    Log Entry: Toxtricity V became P1's new Active Pokémon.
+    Source: 
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 18
+    Log Entry: P1 put Croagunk onto the Bench.
+    Source: 
+        Name: Croagunk
+        Set Name: Sword & Shield
+        Set Number: 123
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 19
+    Log Entry: P1 drew Toxtricity VMAX.
+    Source: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 196
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 20
+    Log Entry: P1 attached a Lightning Energy to Toxtricity V.
+    Source: 
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 21
+    Log Entry: P1 played Pokémon Communication.
+    Source: 
+        Name: PokemonCommunication
+        Set Name: <i>Black & White</i>
+        Set Number: 099
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 22
+    Log Entry: P1 drew Tapu Koko {*}.
+    Source: 
+        Name: TapuKokoPrismStar
+        Set Name: Sun & Moon—Team Up
+        Set Number: 051
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 23
+    Log Entry: P1 put Tapu Koko {*} onto the Bench.
+    Source: 
+        Name: TapuKokoPrismStar
+        Set Name: Sun & Moon—Team Up
+        Set Number: 051
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 24
+    Log Entry: P1 put Dedenne-GX onto the Bench.
+    Source: 
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 25
+    Log Entry: P1 drew Switch.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 26
+    Log Entry: P1 drew Pokémon Communication.
+    Source: 
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 27
+    Log Entry: P1 drew Marnie.
+    Source: 
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 28
+    Log Entry: P1 drew Lightning Energy.
+    Source: 
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 29
+    Log Entry: P1 drew Lightning Energy.
+    Source: 
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 30
+    Log Entry: P1 drew Switch.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 31
+    Log Entry: It is now rikgief's turn (Turn #2).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 32
+    Log Entry: rikgief drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 33
+    Log Entry: rikgief put Lapras V onto the Bench.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 34
+    Log Entry: rikgief's Lapras V retreated.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 35
+    Log Entry: rikgief played Bird Keeper.
+    Source: 
+        Name: BirdKeeper
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 159
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 36
+    Log Entry: Lapras V became rikgief's new Active Pokémon.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 37
+    Log Entry: rikgief drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 38
+    Log Entry: rikgief drew a card.
+    Source: 
+        Name: WaterEnergy
+        Set Name: set.name.SWSH_Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 39
+    Log Entry: rikgief drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 40
+    Log Entry: rikgief played Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 41
+    Log Entry: rikgief drew Snom.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 42
+    Log Entry: rikgief put Snom onto the Bench.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 43
+    Log Entry: rikgief played Chaotic Swell.
+    Source: 
+        Name: ChaoticSwell
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 187
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 44
+    Log Entry: rikgief attached a Water Energy to Blastoise & Piplup-GX.
+    Source: 
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 45
+    Log Entry: It is now P1's turn (Turn #3).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 46
+    Log Entry: P1 drew Vitality Band.
+    Source: 
+        Name: VitalityBand
+        Set Name: Sword & Shield
+        Set Number: 185
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 47
+    Log Entry: P1 attached a Lightning Energy to Toxtricity V.
+    Source: 
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 48
+    Log Entry: P1 attached a Vitality Band to Toxtricity V.
+    Source: 
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 49
+    Log Entry: P1's Toxtricity V retreated.
+    Source: 
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 50
+    Log Entry: P1 played Switch.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 51
+    Log Entry: Croagunk became P1's new Active Pokémon.
+    Source: 
+        Name: Croagunk
+        Set Name: Sword & Shield
+        Set Number: 123
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 52
+    Log Entry: P1 played Marnie.
+    Source: 
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 53
+    Log Entry: P1 drew Speed Lightning Energy.
+    Source: 
+        Name: SpeedLightningEnergy
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 173
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 54
+    Log Entry: P1 drew Boss's Orders.
+    Source: 
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 55
+    Log Entry: P1 drew Vitality Band.
+    Source: 
+        Name: VitalityBand
+        Set Name: Sword & Shield
+        Set Number: 185
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 56
+    Log Entry: P1 drew Dark City.
+    Source: 
+        Name: DarkCity
+        Set Name: Sun & Moon—Unified Minds
+        Set Number: 193
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 57
+    Log Entry: P1 drew Professor's Research.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 58
+    Log Entry: rikgief drew a card.
+    Source: 
+        Name: WaterEnergy
+        Set Name: set.name.SWSH_Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 59
+    Log Entry: rikgief drew a card.
+    Source: 
+        Name: WaterEnergy
+        Set Name: set.name.SWSH_Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 60
+    Log Entry: rikgief drew a card.
+    Source: 
+        Name: EvolutionIncense
+        Set Name: Sword & Shield
+        Set Number: 163
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 61
+    Log Entry: rikgief drew a card.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield
+        Set Number: 064
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 62
+    Log Entry: P1 played Dark City.
+    Source: 
+        Name: DarkCity
+        Set Name: Sun & Moon—Unified Minds
+        Set Number: 193
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 63
+    Log Entry: It is now rikgief's turn (Turn #4).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 64
+    Log Entry: rikgief drew a card.
+    Source: 
+        Name: OrdinaryRod
+        Set Name: Sword & Shield
+        Set Number: 171
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 65
+    Log Entry: rikgief put Frosmoth onto the Bench.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield
+        Set Number: 064
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 66
+    Log Entry: rikgief's Snom evolved into Frosmoth.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 67
+    Log Entry: rikgief played Evolution Incense.
+    Source: 
+        Name: EvolutionIncense
+        Set Name: Sword & Shield
+        Set Number: 163
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 68
+    Log Entry: rikgief drew Lapras VMAX.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 69
+    Log Entry: rikgief put Lapras VMAX onto the Bench.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 70
+    Log Entry: rikgief's Lapras V evolved into Lapras VMAX.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+
+    Data For Entry Number: 71
+    Log Entry: rikgief's Frosmoth used its Ice Dance Ability.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield
+        Set Number: 064
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 72
+    Log Entry: rikgief attached a Water Energy to Blastoise & Piplup-GX.
+    Source: 
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 73
+    Log Entry: rikgief attached a Water Energy to Blastoise & Piplup-GX.
+    Source: 
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 74
+    Log Entry: It is now P1's turn (Turn #5).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 75
+    Log Entry: P1 drew Marnie.
+    Source: 
+        Name: Marnie
+        Set Name: Champion's Path
+        Set Number: 056
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 76
+    Log Entry: P1 attached a Speed Lightning Energy to Toxtricity V.
+    Source: 
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 77
+    Log Entry: P1 drew Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 78
+    Log Entry: P1 drew Speed Lightning Energy.
+    Source: 
+        Name: SpeedLightningEnergy
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 173
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 79
+    Log Entry: P1 played Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 80
+    Log Entry: P1 drew Galarian Slowbro V.
+    Source: 
+        Name: GalarianSlowbroV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 81
+    Log Entry: P1 put Galarian Slowbro V onto the Bench.
+    Source: 
+        Name: GalarianSlowbroV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 82
+    Log Entry: P1 played Professor's Research.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 83
+    Log Entry: P1 drew Croagunk.
+    Source: 
+        Name: Croagunk
+        Set Name: Sword & Shield
+        Set Number: 123
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 84
+    Log Entry: P1 drew Speed Lightning Energy.
+    Source: 
+        Name: SpeedLightningEnergy
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 173
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 85
+    Log Entry: P1 drew Professor's Research.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 86
+    Log Entry: P1 drew Speed Lightning Energy.
+    Source: 
+        Name: SpeedLightningEnergy
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 173
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 87
+    Log Entry: P1 drew Toxicroak.
+    Source: 
+        Name: Toxicroak
+        Set Name: Sword & Shield
+        Set Number: 124
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 88
+    Log Entry: P1 drew Switch.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 89
+    Log Entry: P1 drew Toxtricity VMAX.
+    Source: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 196
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 90
+    Log Entry: Toxicroak became P1's new Active Pokémon.
+    Source: 
+        Name: Toxicroak
+        Set Name: Sword & Shield
+        Set Number: 124
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 91
+    Log Entry: P1's Croagunk evolved into Toxicroak.
+    Source: 
+        Name: Croagunk
+        Set Name: Sword & Shield
+        Set Number: 123
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: 
+        Name: Croagunk
+        Set Name: Sword & Shield
+        Set Number: 123
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 92
+    Log Entry: P1 put Toxtricity VMAX onto the Bench.
+    Source: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 196
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 93
+    Log Entry: P1 attached a Vitality Band to Toxtricity VMAX.
+    Source: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 196
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 94
+    Log Entry: P1's Toxtricity V evolved into Toxtricity VMAX.
+    Source: 
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: 
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 95
+    Log Entry: P1's Toxicroak retreated.
+    Source: 
+        Name: Toxicroak
+        Set Name: Sword & Shield
+        Set Number: 124
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 96
+    Log Entry: P1 played Switch.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 97
+    Log Entry: Toxtricity VMAX became P1's new Active Pokémon.
+    Source: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 196
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 98
+    Log Entry: P1's Toxtricity VMAX used G-Max Riot and did 340 damage to rikgief's Lapras V.
+    Source: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 196
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+
+    Data For Entry Number: 99
+    Log Entry: rikgief's Lapras V was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 100
+    Log Entry: P1 took a Prize card.
+    Source: 
+        Name: AirBalloon
+        Set Name: Sword & Shield
+        Set Number: 156
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 101
+    Log Entry: P1 took a Prize card.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 102
+    Log Entry: Blastoise & Piplup-GX became rikgief's new Active Pokémon.
+    Source: 
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 103
+    Log Entry: It is now rikgief's turn (Turn #6).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 104
+    Log Entry: rikgief drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 105
+    Log Entry: rikgief attached a Water Energy to Lapras VMAX.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 106
+    Log Entry: rikgief played Ordinary Rod.
+    Source: 
+        Name: OrdinaryRod
+        Set Name: Sword & Shield
+        Set Number: 171
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 107
+    Log Entry: P1's Toxtricity VMAX is now Paralyzed.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 108
+    Log Entry: rikgief's Blastoise & Piplup-GX used Bubble Launcher GX and did 100 damage to P1's Toxtricity VMAX.
+    Source: 
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 196
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 109
+    Log Entry: It is now P1's turn (Turn #7).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 110
+    Log Entry: P1 drew Pokémon Communication.
+    Source: 
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 111
+    Log Entry: P1 attached a Air Balloon to Galarian Slowbro V.
+    Source: 
+        Name: GalarianSlowbroV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 112
+    Log Entry: P1 attached a Speed Lightning Energy to Dedenne-GX.
+    Source: 
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 113
+    Log Entry: P1 drew Lightning Energy.
+    Source: 
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 114
+    Log Entry: P1 drew Lightning Energy.
+    Source: 
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 115
+    Log Entry: P1 played Professor's Research.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 116
+    Log Entry: P1 drew Dedenne-GX.
+    Source: 
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 117
+    Log Entry: P1 drew Lightning Energy.
+    Source: 
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 118
+    Log Entry: P1 drew Crobat V.
+    Source: 
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 104
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 119
+    Log Entry: P1 drew Lightning Energy.
+    Source: 
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 120
+    Log Entry: P1 drew Bird Keeper.
+    Source: 
+        Name: BirdKeeper
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 159
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 121
+    Log Entry: P1 drew Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 122
+    Log Entry: P1 drew Pokémon Communication.
+    Source: 
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 123
+    Log Entry: P1 put Dedenne-GX onto the Bench.
+    Source: 
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 124
+    Log Entry: P1 drew Toxtricity VMAX.
+    Source: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 071
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 125
+    Log Entry: P1 drew Toxicroak.
+    Source: 
+        Name: Toxicroak
+        Set Name: Sword & Shield
+        Set Number: 124
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 126
+    Log Entry: P1 drew Boss's Orders.
+    Source: 
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 127
+    Log Entry: P1 drew Lightning Energy.
+    Source: 
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 128
+    Log Entry: P1 drew Boss's Orders.
+    Source: 
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 129
+    Log Entry: P1 drew Toxtricity V.
+    Source: 
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 130
+    Log Entry: P1's Tapu Koko {*} used its Dance of the Ancients Ability.
+    Source: 
+        Name: TapuKokoPrismStar
+        Set Name: Sun & Moon—Team Up
+        Set Number: 051
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 131
+    Log Entry: P1 attached a Lightning Energy to Dedenne-GX.
+    Source: 
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 132
+    Log Entry: P1 attached a Lightning Energy to Dedenne-GX.
+    Source: 
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 133
+    Log Entry: P1's Tapu Koko {*} was moved to the Lost Zone.
+    Source: 
+        Name: TapuKokoPrismStar
+        Set Name: Sun & Moon—Team Up
+        Set Number: 051
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 134
+    Log Entry: P1 put Toxtricity V onto the Bench.
+    Source: 
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 135
+    Log Entry: P1's Toxtricity VMAX is no longer Paralyzed.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 136
+    Log Entry: It is now rikgief's turn (Turn #8).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 137
+    Log Entry: rikgief drew a card.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 138
+    Log Entry: rikgief's Blastoise & Piplup-GX used Splash Maker and did 150 damage to P1's Toxtricity VMAX.
+    Source: 
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 196
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 139
+    Log Entry: It is now P1's turn (Turn #9).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 140
+    Log Entry: P1 drew Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 141
+    Log Entry: P1 put Toxtricity VMAX onto the Bench.
+    Source: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 071
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 142
+    Log Entry: P1's Toxtricity V evolved into Toxtricity VMAX.
+    Source: 
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: 
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 143
+    Log Entry: rikgief's Blastoise & Piplup-GX retreated.
+    Source: 
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 144
+    Log Entry: P1 played Boss's Orders.
+    Source: 
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 145
+    Log Entry: Lapras VMAX became rikgief's new Active Pokémon.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 146
+    Log Entry: P1 attached a Lightning Energy to Toxtricity VMAX.
+    Source: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 071
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 147
+    Log Entry: P1's Toxtricity VMAX used G-Max Riot and did 340 damage to rikgief's Lapras VMAX.
+    Source: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 196
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+
+    Data For Entry Number: 148
+    Log Entry: rikgief's Lapras VMAX was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 149
+    Log Entry: P1 took a Prize card.
+    Source: 
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 150
+    Log Entry: P1 took a Prize card.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 151
+    Log Entry: P1 took a Prize card.
+    Source: 
+        Name: DarkCity
+        Set Name: Sun & Moon—Unified Minds
+        Set Number: 193
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 152
+    Log Entry: Blastoise & Piplup-GX became rikgief's new Active Pokémon.
+    Source: 
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 153
+    Log Entry: It is now rikgief's turn (Turn #10).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 154
+    Log Entry: rikgief drew a card.
+    Source: 
+        Name: BigCharm
+        Set Name: Sword & Shield
+        Set Number: 158
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 155
+    Log Entry: rikgief attached a Big Charm to Blastoise & Piplup-GX.
+    Source: 
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 156
+    Log Entry: rikgief's Blastoise & Piplup-GX used Splash Maker and did 150 damage to P1's Toxtricity VMAX.
+    Source: 
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 196
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 157
+    Log Entry: P1's Toxtricity VMAX was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 158
+    Log Entry: rikgief took a Prize card.
+    Source: 
+        Name: WaterEnergy
+        Set Name: set.name.SWSH_Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 159
+    Log Entry: rikgief took a Prize card.
+    Source: 
+        Name: EvolutionIncense
+        Set Name: Sword & Shield
+        Set Number: 163
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 160
+    Log Entry: rikgief took a Prize card.
+    Source: 
+        Name: OrdinaryRod
+        Set Name: Sword & Shield
+        Set Number: 171
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 161
+    Log Entry: Galarian Slowbro V became P1's new Active Pokémon.
+    Source: 
+        Name: GalarianSlowbroV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 162
+    Log Entry: It is now P1's turn (Turn #11).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 163
+    Log Entry: P1 drew Lightning Energy.
+    Source: 
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 164
+    Log Entry: rikgief's Blastoise & Piplup-GX retreated.
+    Source: 
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 165
+    Log Entry: P1 played Boss's Orders.
+    Source: 
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 166
+    Log Entry: Frosmoth became rikgief's new Active Pokémon.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield
+        Set Number: 064
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 167
+    Log Entry: P1 played Dark City.
+    Source: 
+        Name: DarkCity
+        Set Name: Sun & Moon—Unified Minds
+        Set Number: 193
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 168
+    Log Entry: P1's Galarian Slowbro V used its Rapid-Fire Poison Ability.
+    Source: 
+        Name: GalarianSlowbroV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 169
+    Log Entry: rikgief's Frosmoth is now Poisoned.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 170
+    Log Entry: P1's Galarian Slowbro V retreated.
+    Source: 
+        Name: GalarianSlowbroV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 171
+    Log Entry: P1 played Switch.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 172
+    Log Entry: Dedenne-GX became P1's new Active Pokémon.
+    Source: 
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 173
+    Log Entry: P1 attached a Lightning Energy to Toxtricity VMAX.
+    Source: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 071
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 174
+    Log Entry: rikgief's Frosmoth is now Paralyzed.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 175
+    Log Entry: P1's Dedenne-GX used Tingly Return GX and did 50 damage to rikgief's Frosmoth.
+    Source: 
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: 
+        Name: Frosmoth
+        Set Name: Sword & Shield
+        Set Number: 064
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 176
+    Log Entry: Galarian Slowbro V became P1's new Active Pokémon.
+    Source: 
+        Name: GalarianSlowbroV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 177
+    Log Entry: rikgief's Frosmoth took 30 damage because it was Poisoned.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 178
+    Log Entry: It is now rikgief's turn (Turn #12).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 179
+    Log Entry: rikgief drew a card.
+    Source: 
+        Name: WaterEnergy
+        Set Name: set.name.SWSH_Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 180
+    Log Entry: rikgief's Frosmoth retreated.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield
+        Set Number: 064
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 181
+    Log Entry: rikgief played Switch.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 182
+    Log Entry: rikgief's Frosmoth is no longer Paralyzed.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 183
+    Log Entry: rikgief's Frosmoth is no longer Poisoned.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 184
+    Log Entry: Blastoise & Piplup-GX became rikgief's new Active Pokémon.
+    Source: 
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 185
+    Log Entry: rikgief played Ordinary Rod.
+    Source: 
+        Name: OrdinaryRod
+        Set Name: Sword & Shield
+        Set Number: 171
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 186
+    Log Entry: rikgief's Blastoise & Piplup-GX used its Splash Maker attack.
+    Source: 
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 187
+    Log Entry: rikgief attached a Water Energy to Frosmoth.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield
+        Set Number: 064
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 188
+    Log Entry: rikgief's Frosmoth healed for 50.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield
+        Set Number: 064
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 189
+    Log Entry: rikgief attached a Water Energy to Frosmoth.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield
+        Set Number: 064
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 190
+    Log Entry: rikgief's Frosmoth healed for 30.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield
+        Set Number: 064
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 191
+    Log Entry: It is now P1's turn (Turn #13).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 192
+    Log Entry: P1 drew Switch.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 193
+    Log Entry: P1 attached a Speed Lightning Energy to Toxtricity VMAX.
+    Source: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 071
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 194
+    Log Entry: P1 drew Galarian Slowbro V.
+    Source: 
+        Name: GalarianSlowbroV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 195
+    Log Entry: P1 drew Professor's Research.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 196
+    Log Entry: P1's Galarian Slowbro V used its Rapid-Fire Poison Ability.
+    Source: 
+        Name: GalarianSlowbroV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 197
+    Log Entry: rikgief's Blastoise & Piplup-GX is now Poisoned.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 198
+    Log Entry: P1 played Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 199
+    Log Entry: P1's Galarian Slowbro V retreated.
+    Source: 
+        Name: GalarianSlowbroV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 200
+    Log Entry: Toxtricity VMAX became P1's new Active Pokémon.
+    Source: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 071
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 201
+    Log Entry: P1's Toxtricity VMAX used G-Max Riot and did 240 damage to rikgief's Blastoise & Piplup-GX.
+    Source: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 071
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: 
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 202
+    Log Entry: rikgief's Blastoise & Piplup-GX took 30 damage because it was Poisoned.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 203
+    Log Entry: It is now rikgief's turn (Turn #14).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 204
+    Log Entry: rikgief drew a card.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 205
+    Log Entry: rikgief put Snom onto the Bench.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 206
+    Log Entry: rikgief played Evolution Incense.
+    Source: 
+        Name: EvolutionIncense
+        Set Name: Sword & Shield
+        Set Number: 163
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 207
+    Log Entry: rikgief drew Frosmoth.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 208
+    Log Entry: rikgief's Blastoise & Piplup-GX used Splash Maker and did 150 damage to P1's Toxtricity VMAX.
+    Source: 
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 071
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 209
+    Log Entry: rikgief's Blastoise & Piplup-GX took 30 damage because it was Poisoned.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 210
+    Log Entry: rikgief's Blastoise & Piplup-GX is no longer Poisoned.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 211
+    Log Entry: rikgief's Blastoise & Piplup-GX was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 212
+    Log Entry: P1 took a Prize card.
+    Source: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 196
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 213
+    Log Entry: You took all of your Prize cards to win the game!
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+*** Debug Game Log Output Ends Here ***
+
+*** Debug Current Game State Output Begins Here ***
+
+*** Cards Data Begins Here ***
+
+    P1 Cards In Deck Cards (Count: 5)
+
+    P1 Cards In Discard (Count: 35) :
+    Top Card #1 in card group: 
+        Name: PokemonCommunication
+        Set Name: <i>Black & White</i>
+        Set Number: 099
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #2 in card group:     
+        Name: BirdKeeper
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 159
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #3 in card group:     
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #4 in card group:     
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #5 in card group:     
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #6 in card group:     
+        Name: DarkCity
+        Set Name: Sun & Moon—Unified Minds
+        Set Number: 193
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #7 in card group:     
+        Name: Marnie
+        Set Name: Champion's Path
+        Set Number: 056
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #8 in card group:     
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #9 in card group:     
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #10 in card group:     
+        Name: VitalityBand
+        Set Name: Sword & Shield
+        Set Number: 185
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #11 in card group:     
+        Name: SpeedLightningEnergy
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 173
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #12 in card group:     
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #13 in card group:     
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #14 in card group:     
+        Name: Croagunk
+        Set Name: Sword & Shield
+        Set Number: 123
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #15 in card group:     
+        Name: SpeedLightningEnergy
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 173
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #16 in card group:     
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #17 in card group:     
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #18 in card group:     
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #19 in card group:     
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #20 in card group:     
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 104
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #21 in card group:     
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #22 in card group:     
+        Name: BirdKeeper
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 159
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #23 in card group:     
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #24 in card group:     
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #25 in card group:     
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #26 in card group:     
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #27 in card group:     
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #28 in card group:     
+        Name: SpeedLightningEnergy
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 173
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #29 in card group:     
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #30 in card group:     
+        Name: VitalityBand
+        Set Name: Sword & Shield
+        Set Number: 185
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #31 in card group:     
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 196
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #32 in card group:     
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #33 in card group:     
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #34 in card group:     
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #35 in card group:     
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+
+    P1 Active Pokemon (Count: 1) :
+    Top Card #1 in card group: 
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 071
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+        Card attached to Toxtricity VMAX:
+
+            Card #1 in card group:     
+        Name: ToxtricityV
+        Set Name: Sword & Shield Black Star Promos
+        Set Number: 017
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+        Card attached to Toxtricity V:
+
+            Card #1 in card group:     
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #2 in card group:     
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #3 in card group:     
+        Name: SpeedLightningEnergy
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 173
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+
+
+
+    P1 Bench Pokemon (Count: 3) :
+    Top Card #1 in card group: 
+        Name: Toxicroak
+        Set Name: Sword & Shield
+        Set Number: 124
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+        Card attached to Toxicroak:
+
+            Card #1 in card group:     
+        Name: Croagunk
+        Set Name: Sword & Shield
+        Set Number: 123
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Card #2 in card group:     
+        Name: GalarianSlowbroV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+        Card attached to Galarian Slowbro V:
+
+            Card #1 in card group:     
+        Name: AirBalloon
+        Set Name: Sword & Shield
+        Set Number: 156
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+
+    Card #3 in card group:     
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+        Card attached to Dedenne-GX:
+
+            Card #1 in card group:     
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+
+
+    P1 Cards In Prize Pile (Count: 0) :
+
+    P1 Cards In Hand (Count: 7) :
+    Top Card #1 in card group: 
+        Name: Toxicroak
+        Set Name: Sword & Shield
+        Set Number: 124
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #2 in card group:     
+        Name: LightningEnergy
+        Set Name: Free Energy
+        Set Number: 004
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #3 in card group:     
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #4 in card group:     
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #5 in card group:     
+        Name: GalarianSlowbroV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #6 in card group:     
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #7 in card group:     
+        Name: ToxtricityVMAX
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 196
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    P2 Cards In Deck Cards (Count: 38)
+
+    P2 Cards In Discard (Count: 13) :
+    Top Card #1 in card group: 
+        Name: BirdKeeper
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 159
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #2 in card group:     
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #3 in card group:     
+        Name: ChaoticSwell
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 187
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #4 in card group:     
+        Name: EvolutionIncense
+        Set Name: Sword & Shield
+        Set Number: 163
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #5 in card group:     
+        Name: OrdinaryRod
+        Set Name: Sword & Shield
+        Set Number: 171
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #6 in card group:     
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #7 in card group:     
+        Name: OrdinaryRod
+        Set Name: Sword & Shield
+        Set Number: 171
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #8 in card group:     
+        Name: EvolutionIncense
+        Set Name: Sword & Shield
+        Set Number: 163
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #9 in card group:     
+        Name: WaterEnergy
+        Set Name: set.name.SWSH_Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Card #10 in card group:     
+        Name: WaterEnergy
+        Set Name: set.name.SWSH_Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Card #11 in card group:     
+        Name: WaterEnergy
+        Set Name: set.name.SWSH_Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Card #12 in card group:     
+        Name: BigCharm
+        Set Name: Sword & Shield
+        Set Number: 158
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #13 in card group:     
+        Name: BlastoisePiplupGX
+        Set Name: Sun & Moon—Cosmic Eclipse
+        Set Number: 038
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    P2 Active Pokemon (Count: 0) :
+
+    P2 Bench Pokemon (Count: 2) :
+    Top Card #1 in card group: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Card #2 in card group:     
+        Name: Frosmoth
+        Set Name: Sword & Shield
+        Set Number: 064
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Frosmoth:
+
+            Card #1 in card group:     
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Snom:
+
+            Card #1 in card group:     
+        Name: WaterEnergy
+        Set Name: set.name.SWSH_Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Card #2 in card group:     
+        Name: WaterEnergy
+        Set Name: set.name.SWSH_Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+
+
+
+    P2 Cards In Prize Pile (Count: 3) :
+    Card 1 not yet revealed
+    Card 2 not yet revealed
+    Card 3 not yet revealed
+
+    P2 Cards In Hand (Count: 1) :
+    Card 1 not yet revealed
+
+    All Player Area, Out Of Play Cards: (Count: 0) :
+
+    All Player Area, Stadium Cards: (Count: 1) :
+    Top Card #1 in card group: 
+        Name: DarkCity
+        Set Name: Sun & Moon—Unified Minds
+        Set Number: 193
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+
+    All Player Area, Active Trainer: (Count: 0) :
+
+*** Cards Data Ends Here ***
+
+
+*** Debug Current Game State Output Ends Here ***
+
+Versions Data:
+Client Version: 2.74.0.4997
+Server Version: 2.74.0.5179
+Bundles Version: 2111
+Archetypes Bundle Version: 14752
+Localization Bundle Version: 14756
+Current Game ID: 38a3f8f0-13e9-11eb-b4a9-06b4f3381d61

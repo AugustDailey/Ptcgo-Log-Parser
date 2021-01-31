@@ -1,0 +1,3086 @@
+Game Log Output Begins Here:
+    1. P1 flipped 1 coin(s), resulting in 0 heads and 1 tails, for Beginning of Game.
+    2. It is now P1's turn (Turn #1).
+    3. P1 drew Wailord V.
+    4. Shashimii drew a card.
+    5. P1 drew Glimwood Tangle.
+    6. Shashimii drew a card.
+    7. P1 drew Water Energy.
+    8. Shashimii drew a card.
+    9. P1 drew Boss's Orders.
+    10. Shashimii drew a card.
+    11. P1 drew Cape of Toughness.
+    12. Shashimii drew a card.
+    13. P1 drew Marnie.
+    14. Shashimii drew a card.
+    15. P1 drew Water Energy.
+    16. Shashimii drew a card.
+    17. Wailord V became P1's new Active Pokémon.
+    18. P1 drew Energy Retrieval.
+    19. P1 attached a Cape of Toughness to Wailord V.
+    20. P1 played Glimwood Tangle.
+    21. P1 attached a Water Energy to Wailord V.
+    22. It is now Shashimii's turn (Turn #2).
+    23. Shashimii drew a card.
+    24. Shashimii attached a Hiding {D} Energy to Grimmsnarl V.
+    25. Shashimii's Jirachi used its Stellar Wish Ability.
+    26. Shashimii drew Professor's Research.
+    27. Shashimii's Jirachi is now Asleep.
+    28. Shashimii flipped 1 coin(s), resulting in 0 heads and 1 tails, for Asleep.
+    29. It is now P1's turn (Turn #3).
+    30. P1 drew Frosmoth.
+    31. P1 attached a Water Energy to Wailord V.
+    32. P1 played Marnie.
+    33. P1 drew Switch.
+    34. P1 drew Professor's Research.
+    35. P1 drew Pokémon Communication.
+    36. P1 drew Marnie.
+    37. P1 drew Glimwood Tangle.
+    38. Shashimii drew a card.
+    39. Shashimii drew a card.
+    40. Shashimii drew a card.
+    41. Shashimii drew a card.
+    42. P1's Wailord V used its Draw Up attack.
+    43. Shashimii flipped 1 coin(s), resulting in 0 heads and 1 tails, for Asleep.
+    44. It is now Shashimii's turn (Turn #4).
+    45. Shashimii drew a card.
+    46. Shashimii put Grimmsnarl VMAX onto the Bench.
+    47. Shashimii's Grimmsnarl V evolved into Grimmsnarl VMAX.
+    48. Shashimii's Jirachi used its Stellar Wish Ability.
+    49. Shashimii drew Professor's Research.
+    50. Shashimii put Grimmsnarl V onto the Bench.
+    51. Shashimii played Professor's Research.
+    52. Shashimii drew a card.
+    53. Shashimii drew a card.
+    54. Shashimii drew a card.
+    55. Shashimii drew a card.
+    56. Shashimii drew a card.
+    57. Shashimii drew a card.
+    58. Shashimii drew a card.
+    59. Shashimii put Grimmsnarl VMAX onto the Bench.
+    60. Shashimii's Grimmsnarl V evolved into Grimmsnarl VMAX.
+    61. Shashimii put Deino onto the Bench.
+    62. Shashimii attached a Darkness Energy to Grimmsnarl VMAX.
+    63. Shashimii played Quick Ball.
+    64. Shashimii drew Crobat V.
+    65. Shashimii put Crobat V onto the Bench.
+    66. Shashimii drew a card.
+    67. Shashimii drew a card.
+    68. Shashimii drew a card.
+    69. Shashimii drew a card.
+    70. Shashimii played Ordinary Rod.
+    71. Shashimii flipped 1 coin(s), resulting in 0 heads and 1 tails, for Asleep.
+    72. It is now P1's turn (Turn #5).
+    73. P1 drew Water Energy.
+    74. P1 attached a Water Energy to Wailord V.
+    75. P1 played Professor's Research.
+    76. P1 drew Dedenne-GX.
+    77. P1 drew Boss's Orders.
+    78. P1 drew Dedenne-GX.
+    79. P1 drew Boss's Orders.
+    80. P1 drew Pokémon Communication.
+    81. P1 drew Water Energy.
+    82. P1 drew Quick Ball.
+    83. P1 played Quick Ball.
+    84. P1 drew Snom.
+    85. P1 put Snom onto the Bench.
+    86. P1 played Pokémon Communication.
+    87. P1 drew Crobat V.
+    88. P1 put Dedenne-GX onto the Bench.
+    89. P1 drew Water Energy.
+    90. P1 drew Water Energy.
+    91. P1 drew Snom.
+    92. P1 drew Capacious Bucket.
+    93. P1 drew Snom.
+    94. P1 drew Energy Retrieval.
+    95. P1 played Capacious Bucket.
+    96. P1 drew Water Energy.
+    97. P1 drew Water Energy.
+    98. P1 put Snom onto the Bench.
+    99. P1's Wailord V used its Draw Up attack.
+    100. P1 attached a Water Energy to Wailord V.
+    101. Shashimii flipped 1 coin(s), resulting in 0 heads and 1 tails, for Asleep.
+    102. It is now Shashimii's turn (Turn #6).
+    103. Shashimii drew a card.
+    104. Shashimii played Marnie.
+    105. Shashimii drew a card.
+    106. Shashimii drew a card.
+    107. Shashimii drew a card.
+    108. Shashimii drew a card.
+    109. Shashimii drew a card.
+    110. P1 drew Pokémon Communication.
+    111. P1 drew Quick Ball.
+    112. P1 drew Air Balloon.
+    113. P1 drew Frosmoth.
+    114. Shashimii attached a Darkness Energy to Grimmsnarl VMAX.
+    115. Shashimii's Jirachi used its Stellar Wish Ability.
+    116. Shashimii drew Pokémon Communication.
+    117. Shashimii played Quick Ball.
+    118. Shashimii drew Dedenne-GX.
+    119. Shashimii played Pokémon Communication.
+    120. Shashimii drew Hydreigon.
+    121. Shashimii flipped 1 coin(s), resulting in 1 heads and 0 tails, for Asleep.
+    122. Shashimii's Jirachi is no longer Asleep.
+    123. It is now P1's turn (Turn #7).
+    124. P1 drew Dedenne-GX.
+    125. P1 put Frosmoth onto the Bench.
+    126. P1's Snom evolved into Frosmoth.
+    127. P1 attached a Air Balloon to Frosmoth.
+    128. P1 played Quick Ball.
+    129. P1 drew Wailord V.
+    130. P1 put Wailord V onto the Bench.
+    131. P1 put Dedenne-GX onto the Bench.
+    132. P1 drew Switch.
+    133. P1 drew Quick Ball.
+    134. P1 drew Water Energy.
+    135. P1 drew Snom.
+    136. P1 drew Crobat V.
+    137. P1 drew Water Energy.
+    138. P1 attached a Water Energy to Wailord V.
+    139. P1's Frosmoth used its Ice Dance Ability.
+    140. P1 attached a Water Energy to Wailord V.
+    141. P1 flipped 3 coin(s), resulting in 1 heads and 2 tails, for Ocean Waves.
+    142. P1's Wailord V used its Ocean Waves attack.
+    143. P1's Wailord V used Ocean Waves and did 120 damage to Shashimii's Jirachi.
+    144. Shashimii's Jirachi was Knocked Out.
+    145. P1 took a Prize card.
+    146. Grimmsnarl VMAX became Shashimii's new Active Pokémon.
+    147. It is now Shashimii's turn (Turn #8).
+    148. Shashimii drew a card.
+    149. Shashimii attached a Darkness Energy to Grimmsnarl VMAX.
+    150. Shashimii played Professor's Research.
+    151. Shashimii drew a card.
+    152. Shashimii drew a card.
+    153. Shashimii drew a card.
+    154. Shashimii drew a card.
+    155. Shashimii drew a card.
+    156. Shashimii drew a card.
+    157. Shashimii drew a card.
+    158. Shashimii played Black Market {*}.
+    159. Shashimii attached a Big Charm to Grimmsnarl VMAX.
+    160. Shashimii played Quick Ball.
+    161. Your opponent conceded the game.
+
+Game Log Output Ends Here
+
+*** Debug Game Log Output Begins Here ***
+
+    Data For Entry Number: 1
+    Log Entry: P1 flipped 1 coin(s), resulting in 0 heads and 1 tails, for Beginning of Game.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 2
+    Log Entry: It is now P1's turn (Turn #1).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 3
+    Log Entry: P1 drew Wailord V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 4
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: GrimmsnarlV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 114
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 5
+    Log Entry: P1 drew Glimwood Tangle.
+    Source: 
+        Name: GlimwoodTangle
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 6
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: Hydreigon
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 110
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 7
+    Log Entry: P1 drew Water Energy.
+    Source: 
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 8
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: Jirachi
+        Set Name: Sun & Moon—Team Up
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 9
+    Log Entry: P1 drew Boss's Orders.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 10
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: HidingDEnergy
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 175
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 11
+    Log Entry: P1 drew Cape of Toughness.
+    Source: 
+        Name: CapeofToughness
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 160
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 12
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: GrimmsnarlV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 114
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 13
+    Log Entry: P1 drew Marnie.
+    Source: 
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 14
+    Log Entry: Shashimii drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 15
+    Log Entry: P1 drew Water Energy.
+    Source: 
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 16
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 17
+    Log Entry: Wailord V became P1's new Active Pokémon.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 18
+    Log Entry: P1 drew Energy Retrieval.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 19
+    Log Entry: P1 attached a Cape of Toughness to Wailord V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 20
+    Log Entry: P1 played Glimwood Tangle.
+    Source: 
+        Name: GlimwoodTangle
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 21
+    Log Entry: P1 attached a Water Energy to Wailord V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 22
+    Log Entry: It is now Shashimii's turn (Turn #2).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 23
+    Log Entry: Shashimii drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 24
+    Log Entry: Shashimii attached a Hiding {D} Energy to Grimmsnarl V.
+    Source: 
+        Name: GrimmsnarlV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 114
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 25
+    Log Entry: Shashimii's Jirachi used its Stellar Wish Ability.
+    Source: 
+        Name: Jirachi
+        Set Name: Sun & Moon—Team Up
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 26
+    Log Entry: Shashimii drew Professor's Research.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 27
+    Log Entry: Shashimii's Jirachi is now Asleep.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 28
+    Log Entry: Shashimii flipped 1 coin(s), resulting in 0 heads and 1 tails, for Asleep.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 29
+    Log Entry: It is now P1's turn (Turn #3).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 30
+    Log Entry: P1 drew Frosmoth.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 204
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 31
+    Log Entry: P1 attached a Water Energy to Wailord V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 32
+    Log Entry: P1 played Marnie.
+    Source: 
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 33
+    Log Entry: P1 drew Switch.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 34
+    Log Entry: P1 drew Professor's Research.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 35
+    Log Entry: P1 drew Pokémon Communication.
+    Source: 
+        Name: PokemonCommunication
+        Set Name: <i>Black & White</i>
+        Set Number: 099
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 36
+    Log Entry: P1 drew Marnie.
+    Source: 
+        Name: Marnie
+        Set Name: Champion's Path
+        Set Number: 056
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 37
+    Log Entry: P1 drew Glimwood Tangle.
+    Source: 
+        Name: GlimwoodTangle
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 38
+    Log Entry: Shashimii drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 39
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: GrimmsnarlVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 115
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 40
+    Log Entry: Shashimii drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 41
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: GrimmsnarlV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 114
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 42
+    Log Entry: P1's Wailord V used its Draw Up attack.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 43
+    Log Entry: Shashimii flipped 1 coin(s), resulting in 0 heads and 1 tails, for Asleep.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 44
+    Log Entry: It is now Shashimii's turn (Turn #4).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 45
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: Jirachi
+        Set Name: Sun & Moon—Team Up
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 46
+    Log Entry: Shashimii put Grimmsnarl VMAX onto the Bench.
+    Source: 
+        Name: GrimmsnarlVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 115
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 47
+    Log Entry: Shashimii's Grimmsnarl V evolved into Grimmsnarl VMAX.
+    Source: 
+        Name: GrimmsnarlV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 114
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target: 
+        Name: GrimmsnarlV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 114
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 48
+    Log Entry: Shashimii's Jirachi used its Stellar Wish Ability.
+    Source: 
+        Name: Jirachi
+        Set Name: Sun & Moon—Team Up
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 49
+    Log Entry: Shashimii drew Professor's Research.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 201
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 50
+    Log Entry: Shashimii put Grimmsnarl V onto the Bench.
+    Source: 
+        Name: GrimmsnarlV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 114
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 51
+    Log Entry: Shashimii played Professor's Research.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 201
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 52
+    Log Entry: Shashimii drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 53
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: Deino
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 108
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 54
+    Log Entry: Shashimii drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 55
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: GrimmsnarlVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 115
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 56
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: DarknessEnergy
+        Set Name: set.name.SWSH_Energy
+        Set Number: 007
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 57
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 58
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 59
+    Log Entry: Shashimii put Grimmsnarl VMAX onto the Bench.
+    Source: 
+        Name: GrimmsnarlVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 115
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 60
+    Log Entry: Shashimii's Grimmsnarl V evolved into Grimmsnarl VMAX.
+    Source: 
+        Name: GrimmsnarlV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 114
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+    Target: 
+        Name: GrimmsnarlV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 114
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 61
+    Log Entry: Shashimii put Deino onto the Bench.
+    Source: 
+        Name: Deino
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 108
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 62
+    Log Entry: Shashimii attached a Darkness Energy to Grimmsnarl VMAX.
+    Source: 
+        Name: GrimmsnarlVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 115
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 63
+    Log Entry: Shashimii played Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 64
+    Log Entry: Shashimii drew Crobat V.
+    Source: 
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 182
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 65
+    Log Entry: Shashimii put Crobat V onto the Bench.
+    Source: 
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 182
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 66
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: Deino
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 108
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 67
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 68
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: OrdinaryRod
+        Set Name: Sword & Shield
+        Set Number: 171
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 69
+    Log Entry: Shashimii drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 70
+    Log Entry: Shashimii played Ordinary Rod.
+    Source: 
+        Name: OrdinaryRod
+        Set Name: Sword & Shield
+        Set Number: 171
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 71
+    Log Entry: Shashimii flipped 1 coin(s), resulting in 0 heads and 1 tails, for Asleep.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 72
+    Log Entry: It is now P1's turn (Turn #5).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 73
+    Log Entry: P1 drew Water Energy.
+    Source: 
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 74
+    Log Entry: P1 attached a Water Energy to Wailord V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 75
+    Log Entry: P1 played Professor's Research.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 76
+    Log Entry: P1 drew Dedenne-GX.
+    Source: 
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 77
+    Log Entry: P1 drew Boss's Orders.
+    Source: 
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 78
+    Log Entry: P1 drew Dedenne-GX.
+    Source: 
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 79
+    Log Entry: P1 drew Boss's Orders.
+    Source: 
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 80
+    Log Entry: P1 drew Pokémon Communication.
+    Source: 
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 81
+    Log Entry: P1 drew Water Energy.
+    Source: 
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 82
+    Log Entry: P1 drew Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 83
+    Log Entry: P1 played Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 84
+    Log Entry: P1 drew Snom.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 85
+    Log Entry: P1 put Snom onto the Bench.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 86
+    Log Entry: P1 played Pokémon Communication.
+    Source: 
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 87
+    Log Entry: P1 drew Crobat V.
+    Source: 
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 104
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 88
+    Log Entry: P1 put Dedenne-GX onto the Bench.
+    Source: 
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 89
+    Log Entry: P1 drew Water Energy.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 90
+    Log Entry: P1 drew Water Energy.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 91
+    Log Entry: P1 drew Snom.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 92
+    Log Entry: P1 drew Capacious Bucket.
+    Source: 
+        Name: CapaciousBucket
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 156
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 93
+    Log Entry: P1 drew Snom.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 94
+    Log Entry: P1 drew Energy Retrieval.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 95
+    Log Entry: P1 played Capacious Bucket.
+    Source: 
+        Name: CapaciousBucket
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 156
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 96
+    Log Entry: P1 drew Water Energy.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 97
+    Log Entry: P1 drew Water Energy.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 98
+    Log Entry: P1 put Snom onto the Bench.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 99
+    Log Entry: P1's Wailord V used its Draw Up attack.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 100
+    Log Entry: P1 attached a Water Energy to Wailord V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 101
+    Log Entry: Shashimii flipped 1 coin(s), resulting in 0 heads and 1 tails, for Asleep.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 102
+    Log Entry: It is now Shashimii's turn (Turn #6).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 103
+    Log Entry: Shashimii drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 104
+    Log Entry: Shashimii played Marnie.
+    Source: 
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 105
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 106
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 107
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: DarknessEnergy
+        Set Name: set.name.SWSH_Energy
+        Set Number: 007
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 108
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: Switch
+        Set Name: <i>Sun & Moon—Celestial Storm</i>
+        Set Number: 147
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 109
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 110
+    Log Entry: P1 drew Pokémon Communication.
+    Source: 
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 111
+    Log Entry: P1 drew Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 112
+    Log Entry: P1 drew Air Balloon.
+    Source: 
+        Name: AirBalloon
+        Set Name: Sword & Shield
+        Set Number: 156
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 113
+    Log Entry: P1 drew Frosmoth.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 204
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 114
+    Log Entry: Shashimii attached a Darkness Energy to Grimmsnarl VMAX.
+    Source: 
+        Name: GrimmsnarlVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 115
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 115
+    Log Entry: Shashimii's Jirachi used its Stellar Wish Ability.
+    Source: 
+        Name: Jirachi
+        Set Name: Sun & Moon—Team Up
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 116
+    Log Entry: Shashimii drew Pokémon Communication.
+    Source: 
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 117
+    Log Entry: Shashimii played Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 118
+    Log Entry: Shashimii drew Dedenne-GX.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 119
+    Log Entry: Shashimii played Pokémon Communication.
+    Source: 
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 120
+    Log Entry: Shashimii drew Hydreigon.
+    Source: 
+        Name: Hydreigon
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 110
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 121
+    Log Entry: Shashimii flipped 1 coin(s), resulting in 1 heads and 0 tails, for Asleep.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 122
+    Log Entry: Shashimii's Jirachi is no longer Asleep.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 123
+    Log Entry: It is now P1's turn (Turn #7).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 124
+    Log Entry: P1 drew Dedenne-GX.
+    Source: 
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 125
+    Log Entry: P1 put Frosmoth onto the Bench.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 204
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 126
+    Log Entry: P1's Snom evolved into Frosmoth.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    Data For Entry Number: 127
+    Log Entry: P1 attached a Air Balloon to Frosmoth.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 204
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 128
+    Log Entry: P1 played Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 129
+    Log Entry: P1 drew Wailord V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 130
+    Log Entry: P1 put Wailord V onto the Bench.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 131
+    Log Entry: P1 put Dedenne-GX onto the Bench.
+    Source: 
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 132
+    Log Entry: P1 drew Switch.
+    Source: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 133
+    Log Entry: P1 drew Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 134
+    Log Entry: P1 drew Water Energy.
+    Source: 
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 135
+    Log Entry: P1 drew Snom.
+    Source: 
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 136
+    Log Entry: P1 drew Crobat V.
+    Source: 
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 104
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 137
+    Log Entry: P1 drew Water Energy.
+    Source: 
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 138
+    Log Entry: P1 attached a Water Energy to Wailord V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 139
+    Log Entry: P1's Frosmoth used its Ice Dance Ability.
+    Source: 
+        Name: Frosmoth
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 204
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 140
+    Log Entry: P1 attached a Water Energy to Wailord V.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 141
+    Log Entry: P1 flipped 3 coin(s), resulting in 1 heads and 2 tails, for Ocean Waves.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 142
+    Log Entry: P1's Wailord V used its Ocean Waves attack.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 143
+    Log Entry: P1's Wailord V used Ocean Waves and did 120 damage to Shashimii's Jirachi.
+    Source: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+    Target: 
+        Name: Jirachi
+        Set Name: Sun & Moon—Team Up
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Data For Entry Number: 144
+    Log Entry: Shashimii's Jirachi was Knocked Out.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 145
+    Log Entry: P1 took a Prize card.
+    Source: 
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Current Player
+
+    Data For Entry Number: 146
+    Log Entry: Grimmsnarl VMAX became Shashimii's new Active Pokémon.
+    Source: 
+        Name: GrimmsnarlVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 115
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 147
+    Log Entry: It is now Shashimii's turn (Turn #8).
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+    Data For Entry Number: 148
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: DarknessEnergy
+        Set Name: set.name.SWSH_Energy
+        Set Number: 007
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 149
+    Log Entry: Shashimii attached a Darkness Energy to Grimmsnarl VMAX.
+    Source: 
+        Name: GrimmsnarlVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 115
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 150
+    Log Entry: Shashimii played Professor's Research.
+    Source: 
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 151
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: BlackMarketPrismStar
+        Set Name: Sun & Moon—Team Up
+        Set Number: 134
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 152
+    Log Entry: Shashimii drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 153
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 154
+    Log Entry: Shashimii drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 155
+    Log Entry: Shashimii drew a card.
+    Source: Card not revealed yet so there's no card data. This is likely from a draw card action. Player who performed this action: 
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 156
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: Deino
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 108
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 157
+    Log Entry: Shashimii drew a card.
+    Source: 
+        Name: BigCharm
+        Set Name: Sword & Shield
+        Set Number: 158
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 158
+    Log Entry: Shashimii played Black Market {*}.
+    Source: 
+        Name: BlackMarketPrismStar
+        Set Name: Sun & Moon—Team Up
+        Set Number: 134
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 159
+    Log Entry: Shashimii attached a Big Charm to Grimmsnarl VMAX.
+    Source: 
+        Name: GrimmsnarlVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 115
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 160
+    Log Entry: Shashimii played Quick Ball.
+    Source: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Actor: 
+        Name: 
+        Set Name: No Set Data
+        Set Number: No Set Number
+        Card Type: No Card Type
+        Entity Name: PlayerEntity
+        Owner: Opponent
+
+    Data For Entry Number: 161
+    Log Entry: Your opponent conceded the game.
+    No debug data found, likely this is an entry for drawing a card, displaying coin flip results, or a similar action.
+
+*** Debug Game Log Output Ends Here ***
+
+*** Debug Current Game State Output Begins Here ***
+
+*** Cards Data Begins Here ***
+
+    P1 Cards In Deck Cards (Count: 20)
+
+    P1 Cards In Discard (Count: 15) :
+    Top Card #1 in card group: 
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #2 in card group:     
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #3 in card group:     
+        Name: PokemonCommunication
+        Set Name: <i>Black & White</i>
+        Set Number: 099
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #4 in card group:     
+        Name: Marnie
+        Set Name: Champion's Path
+        Set Number: 056
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #5 in card group:     
+        Name: GlimwoodTangle
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #6 in card group:     
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #7 in card group:     
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #8 in card group:     
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #9 in card group:     
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #10 in card group:     
+        Name: BosssOrders
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 154
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #11 in card group:     
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 104
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #12 in card group:     
+        Name: CapaciousBucket
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 156
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #13 in card group:     
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #14 in card group:     
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #15 in card group:     
+        Name: GlimwoodTangle
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 162
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+
+    P1 Active Pokemon (Count: 1) :
+    Top Card #1 in card group: 
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+        Card attached to Wailord V:
+
+            Card #1 in card group:     
+        Name: CapeofToughness
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 160
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #2 in card group:     
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #3 in card group:     
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #4 in card group:     
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #5 in card group:     
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+
+
+    P1 Bench Pokemon (Count: 5) :
+    Top Card #1 in card group: 
+        Name: Frosmoth
+        Set Name: Sword & Shield—Rebel Clash
+        Set Number: 204
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+        Card attached to Frosmoth:
+
+            Card #1 in card group:     
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #2 in card group:     
+        Name: AirBalloon
+        Set Name: Sword & Shield
+        Set Number: 156
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+
+    Card #2 in card group:     
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #3 in card group:     
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #4 in card group:     
+        Name: WailordV
+        Set Name: Champion's Path
+        Set Number: 013
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+        Card attached to Wailord V:
+
+            Card #1 in card group:     
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+    Card #2 in card group:     
+        Name: WaterEnergy
+        Set Name: Free Energy
+        Set Number: 003
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Current Player
+
+    Card #5 in card group:     
+        Name: DedenneGX
+        Set Name: Sun & Moon—Unbroken Bonds
+        Set Number: 195
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+
+    P1 Cards In Prize Pile (Count: 5) :
+    Card 1 not yet revealed
+    Card 2 not yet revealed
+    Card 3 not yet revealed
+    Card 4 not yet revealed
+    Card 5 not yet revealed
+
+    P1 Cards In Hand (Count: 5) :
+    Top Card #1 in card group: 
+        Name: Switch
+        Set Name: Sword & Shield
+        Set Number: 183
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #2 in card group:     
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+    Card #3 in card group:     
+        Name: Snom
+        Set Name: Sword & Shield
+        Set Number: 063
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #4 in card group:     
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 104
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Current Player
+    Card #5 in card group:     
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Current Player
+
+    P2 Cards In Deck Cards (Count: 23)
+
+    P2 Cards In Discard (Count: 14) :
+    Top Card #1 in card group: 
+        Name: Jirachi
+        Set Name: Sun & Moon—Team Up
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Card #2 in card group:     
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 201
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #3 in card group:     
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #4 in card group:     
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #5 in card group:     
+        Name: OrdinaryRod
+        Set Name: Sword & Shield
+        Set Number: 171
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #6 in card group:     
+        Name: Marnie
+        Set Name: Sword & Shield
+        Set Number: 169
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #7 in card group:     
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #8 in card group:     
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #9 in card group:     
+        Name: PokemonCommunication
+        Set Name: Sun & Moon—Team Up
+        Set Number: 152
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #10 in card group:     
+        Name: Jirachi
+        Set Name: Sun & Moon—Team Up
+        Set Number: 099
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Card #11 in card group:     
+        Name: Switch
+        Set Name: <i>Sun & Moon—Celestial Storm</i>
+        Set Number: 147
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #12 in card group:     
+        Name: Hydreigon
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 110
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Card #13 in card group:     
+        Name: ProfessorsResearch
+        Set Name: Sword & Shield
+        Set Number: 178
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+    Card #14 in card group:     
+        Name: Deino
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 108
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    P2 Active Pokemon (Count: 1) :
+    Top Card #1 in card group: 
+        Name: GrimmsnarlVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 115
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Grimmsnarl VMAX:
+
+            Card #1 in card group:     
+        Name: GrimmsnarlV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 114
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Grimmsnarl V:
+
+            Card #1 in card group:     
+        Name: HidingDEnergy
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 175
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Card #2 in card group:     
+        Name: DarknessEnergy
+        Set Name: set.name.SWSH_Energy
+        Set Number: 007
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Card #3 in card group:     
+        Name: DarknessEnergy
+        Set Name: set.name.SWSH_Energy
+        Set Number: 007
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+    Card #4 in card group:     
+        Name: DarknessEnergy
+        Set Name: set.name.SWSH_Energy
+        Set Number: 007
+        Card Type: Energy
+        Entity Name: Energy
+        Owner: Opponent
+
+    Card #2 in card group:     
+        Name: BigCharm
+        Set Name: Sword & Shield
+        Set Number: 158
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+
+
+    P2 Bench Pokemon (Count: 4) :
+    Top Card #1 in card group: 
+        Name: GrimmsnarlVMAX
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 115
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+        Card attached to Grimmsnarl VMAX:
+
+            Card #1 in card group:     
+        Name: GrimmsnarlV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 114
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    Card #2 in card group:     
+        Name: GrimmsnarlV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 114
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Card #3 in card group:     
+        Name: Deino
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 108
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+    Card #4 in card group:     
+        Name: CrobatV
+        Set Name: Sword & Shield—Darkness Ablaze
+        Set Number: 182
+        Card Type: Pokemon
+        Entity Name: Pokemon
+        Owner: Opponent
+
+    P2 Cards In Prize Pile (Count: 6) :
+    Card 1 not yet revealed
+    Card 2 not yet revealed
+    Card 3 not yet revealed
+    Card 4 not yet revealed
+    Card 5 not yet revealed
+    Card 6 not yet revealed
+
+    P2 Cards In Hand (Count: 3) :
+    Card 1 not yet revealed
+    Card 2 not yet revealed
+    Card 3 not yet revealed
+
+    All Player Area, Out Of Play Cards: (Count: 0) :
+
+    All Player Area, Stadium Cards: (Count: 1) :
+    Top Card #1 in card group: 
+        Name: BlackMarketPrismStar
+        Set Name: Sun & Moon—Team Up
+        Set Number: 134
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+
+    All Player Area, Active Trainer: (Count: 1) :
+    Top Card #1 in card group: 
+        Name: QuickBall
+        Set Name: Sword & Shield
+        Set Number: 179
+        Card Type: TrainerCard
+        Entity Name: TrainerCard
+        Owner: Opponent
+
+*** Cards Data Ends Here ***
+
+
+*** Debug Current Game State Output Ends Here ***
+
+Versions Data:
+Client Version: 2.74.0.4997
+Server Version: 2.74.0.5179
+Bundles Version: 2111
+Archetypes Bundle Version: 14752
+Localization Bundle Version: 14756
+Current Game ID: 61e711f0-1620-11eb-8d40-066f30392c25
