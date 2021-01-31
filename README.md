@@ -3,7 +3,7 @@
 Node.js module for quickly parsing PTCGO Game logs into a more usable json representation.
 <p align="left">
   <img src="https://img.shields.io/npm/v/ptcgo-log-parser.svg?color=blue" />
-  <img src="https://dev.azure.com/August1441/ptcgo-log-parser/_apis/build/status/AugustDailey.Ptcgo-Log-Parser?branchName=master" />
+  <img src="https://github.com/AugustDailey/Ptcgo-Log-Parser/workflows/PTCGO%20Log%20Parser%20CI/badge.svg" />
 </p>
 
 ##  Installation
