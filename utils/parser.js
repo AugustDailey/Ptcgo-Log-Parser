@@ -58,7 +58,6 @@ module.exports = {
 
             if (state == parseStates.CURRENTGAMESTATE && validateCurrentGameStateLogLine(line)) {
                 response.gs = buildGamestate(it);
-                console.log(response.gs)
             }
         }
 
@@ -110,6 +109,7 @@ function validateDebugGameLogLine(line, it) {
                 return [false, "An error occured while parsing the debug game log."];
             }
             var entry = it.next();
+            
             var source = it.next();
 
             if (source.includes("No debug data found")) {
@@ -117,7 +117,15 @@ function validateDebugGameLogLine(line, it) {
                 data.noDataString = source;
             } else if (source.includes("Card not revealed yet so there's no card data")) {
                 data.hasData = true;
+                it.next();
                 data.actor = getActor(it);
+                if (it.current().includes("Target")) {
+                    if (it.current().includes("Card not revealed yet so there's no card data")) {
+                        it.next();
+                        return [true, step, data];
+                    }
+                    data.target = getTarget(it);
+                }
             } else {
                 data.hasData = true;
                 data.source = getSource(it);
@@ -216,7 +224,6 @@ function buildGamestate(it) {
     it.next();
 
     // P1 Deck
-    console.log(it.current());
     gs.playerDeckCount = getDeckCount(it.current());
     if (gs.playerDeckCount == -1) {
         errors.push("Error occurred when reading P1 deck count.");
