@@ -6,7 +6,7 @@ const testCaseFolder = './testCases/';
 var files = [];
 
 
-describe( "Calculator", () => {
+describe( "Ptcgo log parser", () => {
     before( () => {
         fs.readdirSync(testFolder).forEach(file => {
             if(file.includes("logs.txt")) {

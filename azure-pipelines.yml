@@ -17,6 +17,7 @@ steps:
 
 - script: |
     npm install
+    npm install mocha -g
   displayName: 'npm install'
 
 - script: |
