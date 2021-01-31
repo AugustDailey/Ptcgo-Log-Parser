@@ -4,7 +4,8 @@
   "description": "Module for parsing ptcgo logs",
   "main": "index.js",
   "scripts": {
-    "test": "mocha ./testing/script.js"
+    "test": "mocha ./test/run_tests.js",
+    "deploy": "npm publish"
   },
   "repository": {
     "type": "git",
