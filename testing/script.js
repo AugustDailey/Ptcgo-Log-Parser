@@ -2,7 +2,7 @@ const assert = require( "assert" );
 const fs = require('fs');
 const moduleUnderTest = require("../index.js");
 
-const testCaseFolder = './testCases/';
+const testCaseFolder = './testing/testCases/';
 var files = [];
 
 
