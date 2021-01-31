@@ -8,7 +8,7 @@ var files = [];
 
 describe( "Ptcgo log parser", () => {
     before( () => {
-        fs.readdirSync(testFolder).forEach(file => {
+        fs.readdirSync(testCaseFolder).forEach(file => {
             if(file.includes("logs.txt")) {
                 files.push(file);
             }
