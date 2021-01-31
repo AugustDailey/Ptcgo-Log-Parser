@@ -1,3 +1,5 @@
+const iterator = require('./iterator.js')
+
 const parseStates = {
     NOTREADING: 0,
     GAMELOG: 1,
@@ -6,47 +8,53 @@ const parseStates = {
     DEBUGCURRENTGAMESTATE: 4
 }
 
+var state = parseStates.NOTREADING;
 
-function parse(logs) {
+module.exports = {
+    
+    parse: function(logs) {
+        // Setup
+        var logArray = logs.split("\n");
+        var it = iterator.build(logArray);
+        var line = "";
 
-    // Setup
-    var logArray = logs.split("\n");
-    var it = iterator.build(logArray);
-    var line = it.next();
-    var state = parseStates.NOTREADING;
+        // Return values
+        var response = { turns:[], errors:[] }
 
-    // Return values
-    var response = { turns = [] }
+        while(it.next() != null) {
 
-    // Error handling
-    var errors = []
+            line = it.current();
+            validateLogParsingState(line);
 
-    while(it.Current != null) {
-        validateLogParsingState(line);
+            if (state == parseStates.GAMELOG) {
+                var result = validateGameLogLine(line);
+                if (!result[0]) {
+                    if (result[1].length > 0) {
+                        response.errors.push(result[1]);
+                    }
+                    continue;
+                }
 
-        if (state == parseStates.GAMELOG) {
-            var result = validateGameLogLine(line);
-            if (!result[0]) {
-                errors.push("An error occured while parsing the game log.");
-                break;
+                var turn = { number: result[1], entry: result[2], data: null }
+                response.turns.push(turn);
+
             }
 
-            var turn = { number: result[1], entry: result[2], data: null }
-            response.turns.push(turn);
-
-        }
-
-        if (state == parseStates.DEBUGGAMELOG) {
-            var result = validateDebugGameLogLing(line)
-            if (!result[0]) {
-                errors.push("An error occured while parsing the debug game log.");
-                break;
+            if (state == parseStates.DEBUGGAMELOG) {
+                var result = validateDebugGameLogLing(line, it);
+                if (!result[0]) {
+                    if (result[1].length > 0) {
+                        response.errors.push(result[1]);
+                    }
+                    continue;
+                }
+                var turn = response.turns[result[1] - 1];
+                turn.data = result[2];
             }
-            var turn = response.turns[result[1] - 1];
-            turn.data = result[2];
         }
+
+        return response;
     }
-
 }
 
 
@@ -68,11 +76,11 @@ function validateGameLogLine(line) {
     var index = line.indexOf(".");
     if (index > 0) {
         try {
-            step = parseInt(line.Substring(0, index), 10);
+            step = parseInt(line.substring(0, index), 10);
             if (isNaN(step)) {
-                return [false, -1, val];
+                return [false, "An error occured while parsing the game log."];
             }
-            val = line.Substring(index, line.length - 1 - index);
+            val = line.substring(index + 2, line.length);
             return [true, step, val];
         } 
         catch (Exception) {
@@ -80,7 +88,7 @@ function validateGameLogLine(line) {
         }
     }
 
-    return [false, -1, val];
+    return [false, ""];
 }
 
 function validateDebugGameLogLing(line, it) {
@@ -90,13 +98,13 @@ function validateDebugGameLogLing(line, it) {
     if (index > 0)
     {
         try
-        {
-            step = parseInt(line.Substring(index + 1, line.Length - 1 - index), 10);
-
+        {   
+            step = parseInt(line.substring(index + 1, line.length), 10);
+            if (isNaN(step)) {
+                return [false, "An error occured while parsing the debug game log."];
+            }
             var entry = it.next();
             var source = it.next();
-
-            data = new TurnData();
 
             if (source.includes("No debug data found")) {
                 data.hasData = false;
@@ -108,8 +116,8 @@ function validateDebugGameLogLing(line, it) {
                 data.hasData = true;
                 data.source = getSource(it);
                 data.actor = getActor(it);
-                if (it.current.includes("Target")) {
-                    if (it.current.includes("Card not revealed yet so there's no card data")) {
+                if (it.current().includes("Target")) {
+                    if (it.current().includes("Card not revealed yet so there's no card data")) {
                         it.next();
                         return [true, step, data];
                     }
@@ -124,11 +132,11 @@ function validateDebugGameLogLing(line, it) {
         }
     }
 
-    return [false];
+    return [false, ""];
 }
 
 function getSource(it) {
-    if (it.current.includes("not yet revealed"))
+    if (it.current().includes("not yet revealed"))
     {
         it.next();
         return {};
@@ -178,6 +186,7 @@ function getActor(it) {
     it.next();
     it.next();
     var player = it.next();
+    it.next();
     return player;
 }
 
