@@ -17,11 +17,11 @@ describe( "Ptcgo log parser", () => {
   
     describe( "parsing", () => {
         it( "Should have no errors in any parsing test case", () => {
-        files.forEach(file => {
-            const data = fs.readFileSync(testCaseFolder + file, 'utf8');
-            var result = moduleUnderTest.parse(data);
-            assert.deepStrictEqual(result.errors, []);
-        });
+            files.forEach(file => {
+                const data = fs.readFileSync(testCaseFolder + file, 'utf8');
+                var result = moduleUnderTest.parse(data);
+                assert.deepStrictEqual(result.errors, []);
+            });
         } );
     });
 });
