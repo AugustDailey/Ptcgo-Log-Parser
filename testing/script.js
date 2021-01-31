@@ -20,7 +20,7 @@ describe( "Ptcgo log parser", () => {
         files.forEach(file => {
             const data = fs.readFileSync(testCaseFolder + file, 'utf8');
             var result = moduleUnderTest.parse(data);
-            assert.strictEqual(result.errors, []);
+            assert.deepStrictEqual(result.errors, []);
         });
         } );
     });
