@@ -19,7 +19,7 @@ module.exports = {
         var line = "";
 
         // Return values
-        var response = { turns:[], errors:[] }
+        var response = { turns:[], errors:[], gs:null }
 
         while(it.next() != null) {
 
@@ -41,7 +41,7 @@ module.exports = {
             }
 
             if (state == parseStates.DEBUGGAMELOG) {
-                var result = validateDebugGameLogLing(line, it);
+                var result = validateDebugGameLogLine(line, it);
                 if (!result[0]) {
                     if (result[1].length > 0) {
                         response.errors.push(result[1]);
@@ -50,6 +50,15 @@ module.exports = {
                 }
                 var turn = response.turns[result[1] - 1];
                 turn.data = result[2];
+            }
+
+            if (state == parseStates.DEBUGCURRENTGAMESTATE) {
+                // Nothing listed in the logs currently
+            }
+
+            if (state == parseStates.CURRENTGAMESTATE && validateCurrentGameStateLogLine(line)) {
+                response.gs = buildGamestate(it);
+                console.log(response.gs)
             }
         }
 
@@ -82,8 +91,7 @@ function validateGameLogLine(line) {
             }
             val = line.substring(index + 2, line.length);
             return [true, step, val];
-        } 
-        catch (Exception) {
+        } catch (Exception) {
             // TODO: Insert error logging here?
         }
     }
@@ -91,14 +99,12 @@ function validateGameLogLine(line) {
     return [false, ""];
 }
 
-function validateDebugGameLogLing(line, it) {
+function validateDebugGameLogLine(line, it) {
     var index = line.indexOf(":");
     var data = { hasData:false, noDataString:"", source:null, actor:null, target:null }
     var step = -1;
-    if (index > 0)
-    {
-        try
-        {   
+    if (index > 0) {
+        try {   
             step = parseInt(line.substring(index + 1, line.length), 10);
             if (isNaN(step)) {
                 return [false, "An error occured while parsing the debug game log."];
@@ -126,8 +132,7 @@ function validateDebugGameLogLing(line, it) {
             }
 
             return [true, step, data];
-        }
-        catch (Exception) {  
+        } catch (Exception) {  
             // TODO: Insert error logging here?
         }
     }
@@ -192,4 +197,298 @@ function getActor(it) {
 
 function getTarget(it) {
     return getSource(it);
+}
+
+function validateCurrentGameStateLogLine(line) {
+    return line.includes("Cards Data Begins Here");
+}
+
+function buildGamestate(it) {
+
+    var gs = {playerHand:[],playerDiscard:[],playerBench:[],playerActivePokemon:[],
+        opponentHand:[],opponentDiscard:[],opponentBench:[],opponentActivePokemon:[],
+        lostZone:[],stadium:null,playerDeckCount:0,playerprizeCount:0,opponentDeckCount:0,opponentPrizeCount:0}
+    
+    var errors = []
+
+    // Shift Iterator
+    it.next();
+    it.next();
+
+    // P1 Deck
+    console.log(it.current());
+    gs.playerDeckCount = getDeckCount(it.current());
+    if (gs.playerDeckCount == -1) {
+        errors.push("Error occurred when reading P1 deck count.");
+    }
+
+    // Shift Iterator
+    it.next();
+    it.next();
+
+    // P1 Discard Pile
+    var discardCount = getDeckCount(it.current());
+    if (discardCount == -1) {
+        errors.push("Error occurred when reading P1 discard pile count.");
+    }
+
+    // Shift Iterator
+    it.next();
+
+    // Read P1 Discard Pile
+    for(var i = 0; i < discardCount; i++) {
+        var card = getSource(it);
+        if (card != null) {
+            gs.playerDiscard.push(card);
+        }
+    }
+
+    // Shift Iterator
+    it.next();
+
+    // P1 Active
+    var activeCount = getDeckCount(it.current());
+    if (activeCount == -1) {
+        errors.push("Error occurred when reading P1 active pokemon count.");
+    }
+
+    // Shift Iterator
+    it.next();
+
+    // Read P1 Active Pokemon
+    if (activeCount != 0) {
+        gs.playerActivePokemon = getActivePokemonGroup(it);
+    } else {
+        // Shift Iterator
+        it.next();
+    }
+
+    // P1 Bench
+    var benchCount = getDeckCount(it.current());
+    if (benchCount == -1) {
+        errors.push("Error occurred when reading P1 bench count.");
+    }
+
+    // Shift Iterator
+    it.next();
+
+    // Read P1 Bench
+    if (benchCount != 0) {
+        gs.playerBench.concat(getActivePokemonGroup(it));
+    } else {
+        // Shift Iterator
+        it.next();
+    }
+
+    // P1 Prize
+    gs.playerPrizeCount = getDeckCount(it.current());
+    if (gs.playerPrizeCount == -1) {
+        errors.push("Error occurred when reading P1 prize card count.");
+    }
+    
+    // Shift Iterator
+    it.next();
+    for (var i = 0; i < gs.playerPrizeCount; i++) {
+        it.next();
+    }
+    it.next();
+
+    // P1 Hand
+    var handCount = getDeckCount(it.current());
+    if (handCount == -1) {
+        errors.push("Error occurred when reading P1 hand count.");
+    }
+
+    // Shift Iterator
+    it.next();
+    for(var i = 0; i < handCount; i++) {
+        gs.playerHand.push(getSource(it));
+    }
+    it.next();
+
+    // P2 Deck
+    gs.opponentDeckCount = getDeckCount(it.current());
+    if (gs.opponentDeckCount == -1) {
+        errors.push("Error occurred when reading P2 deck count.");
+    }
+
+    // Shift Iterator
+    it.next();
+    it.next();
+
+    // P2 Discard Pile
+    var opponentdiscardCount = getDeckCount(it.current());
+    if (opponentdiscardCount == -1) {
+        errors.push("Error occurred when reading P2 discard pile count.");
+    }
+
+    // Shift Iterator
+    it.next();
+
+    // Read P2 Discard Pile
+    for (var i = 0; i < opponentdiscardCount; i++) {
+        var card = getSource(it);
+        if (card != null) {
+            gs.opponentDiscard.push(card);
+        }
+    }
+
+    // Shift Iterator
+    it.next();
+
+    // P2 Active
+    var opponentActiveCount = getDeckCount(it.current());
+    if (opponentActiveCount == -1) {
+        errors.push("Error occurred when reading P2 active pokemon count.");
+    }
+
+    // Shift Iterator
+    it.next();
+
+    // Read P2 Active Pokemon
+    if (opponentActiveCount != 0) {
+        gs.opponentActivePokemon = getActivePokemonGroup(it);
+    } else {
+        // Shift Iterator
+        it.next();
+    }
+
+    // P2 Bench
+    var opponentbenchCount = getDeckCount(it.current());
+    if (opponentbenchCount == -1) {
+        errors.push("Error occurred when reading P2 bench count.");
+    }
+
+    // Shift Iterator
+    it.next();
+
+    // Read P2 Bench
+    if (opponentbenchCount != 0) {
+        gs.opponentBench.concat(getActivePokemonGroup(it));
+    } else {
+        // Shift Iterator
+        it.next();
+    }
+
+    // P2 Prize
+    gs.opponentPrizeCount = getDeckCount(it.current());
+    if (gs.opponentPrizeCount == -1) {
+        errors.push("Error occurred when reading P2 prize card count.");
+    }
+
+    // Shift Iterator
+    for(var i = 0; i < gs.opponentPrizeCount; i++) {
+        it.next();
+    }
+    it.next();
+    it.next();
+
+    // P2 Hand
+    var opponentHandCount = getDeckCount(it.current());
+    if (opponentHandCount == -1) {
+        errors.push("Error occurred when reading P2 hand count.");
+    }
+
+    // Shift Iterator
+    it.next();
+
+    // Read P2 Hand
+    for (var i = 0; i < opponentHandCount; i++) {
+        gs.opponentHand.push(getSource(it));
+    }
+
+    // Shift Iterator
+    it.next();
+
+    // OOP Cards (Lost Zone)
+    var lostZoneCards = getDeckCountUsingSecondIndex(it.current());
+    if (lostZoneCards == -1) {
+        errors.push("Error occurred when reading lost zone card count.");
+    }
+    
+    // Shift Iterator
+    it.next();
+
+    // Read Lost Zone Cards
+    for (var i = 0; i < lostZoneCards; i++) {
+        gs.lostZone.push(getSource(it));
+    }
+
+    // Shift Iterator
+    it.next();
+
+    // Stadium
+    var stadiumCount = getDeckCountUsingSecondIndex(it.current());
+    if (stadiumCount == -1) {
+        errors.push("Error occurred when reading stadium count.");
+    }
+
+    // Shift Iterator
+    it.next();
+
+    // Read Stadium
+    if (stadiumCount != 0) {
+        gs.stadium = getSource(it);
+    }
+
+    // Shift Iterator
+    it.next();
+
+    // All Player area?
+    var allPArea = getDeckCountUsingSecondIndex(it.current());
+    if (allPArea == -1) {
+        errors.push("Error occurred when reading all player area count.");
+    }
+
+    // Shift Iterator
+    it.next();
+
+    var response = {data:gs, errors:errors};
+    return response;
+}
+
+function getDeckCount(line) {
+    var index = line.indexOf(":");
+    var finalIndex = line.indexOf(")");
+    if (index > 0) {
+        try {
+            return parseInt(line.substring(index + 1, finalIndex), 10);
+        } catch (Exception) {
+            
+        }
+    }
+
+    return -1;
+}
+
+function getDeckCountUsingSecondIndex(line) {
+    var startingIndex = line.indexOf(":");
+    var index = line.indexOf(":", startingIndex + 1);
+    var finalIndex = line.indexOf(")");
+    if (index > 0) {
+        try {
+            return parseInt(line.substring(index + 1, finalIndex));
+        } catch (Exception) {
+
+        }
+    }
+
+    return -1;
+}
+
+function getActivePokemonGroup(it) {
+    var cards = []
+    while (it.current().length > 1)
+    {
+        cards.push(getSource(it));
+        if (it.current().includes("Card attached"))
+        {
+            it.next();
+            it.next();
+            cards.concat(getActivePokemonGroup(it));
+        }
+    }
+
+    it.next();
+    return cards;
 }
