@@ -35,23 +35,23 @@ Result Json will look something like this:
 	[{ 
 		"number": 1, 
 		"entry": "", 
-		"data": [{CARD OBJECT}]
+		"data": [{"CARD OBJECT"}]
 	}],
-	"errors": [""]
+	"errors": [""],
   	"gs":
     	{ 
 		"data":
 		{
 			"playerHand":[{"CARD OBJECT"}],
-			"playerDiscard":[{CARD OBJECT}],
-			"playerBench":[{CARD OBJECT}],
-			"playerActivePokemon":[{CARD OBJECT}],
-			"opponentHand":[{CARD OBJECT}],
-			"opponentDiscard":[{CARD OBJECT}],
-			"opponentBench":[{CARD OBJECT}],
-			"opponentActivePokemon":[{CARD OBJECT}],
-			"lostZone":[{CARD OBJECT}],
-			"stadium":{CARD OBJECT},
+			"playerDiscard":[{"CARD OBJECT"}],
+			"playerBench":[{"CARD OBJECT"}],
+			"playerActivePokemon":[{"CARD OBJECT"}],
+			"opponentHand":[{"CARD OBJECT"}],
+			"opponentDiscard":[{"CARD OBJECT"}],
+			"opponentBench":[{"CARD OBJECT"}],
+			"opponentActivePokemon":[{"CARD OBJECT"}],
+			"lostZone":[{"CARD OBJECT"}],
+			"stadium":{"CARD OBJECT"},
 			"playerDeckCount":0,
 			"playerprizeCount":0,
 			"opponentDeckCount":0,
