@@ -28,7 +28,8 @@ Read data from a file, and parse it.
 var result = ptcgo-parser.parse(data);
 
 ```
-
+## NPM Page
+https://www.npmjs.com/package/ptcgo-log-parser
 
 ## Versions
 - 0.1.5 (Latest) - Clean data for turn entries and cards
