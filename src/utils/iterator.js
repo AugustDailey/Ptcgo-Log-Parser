@@ -15,14 +15,15 @@ module.exports = {
                if (nextIndex < end) {
                    val = data[nextIndex];
                    nextIndex++;
-                   return val;
+                   return val.replace('\r', '').trim();
                }
                val = null;
-               return val;
+               return val
+               
            },
     
            current: function() {
-               return val;
+               return val.replace('\r', '').trim();
            }
         };
         return iterator;
