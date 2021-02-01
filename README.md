@@ -34,8 +34,15 @@ Result Json will look something like this:
 	"turns": 
 	[{ 
 		"number": 1, 
-		"entry": "", 
-		"data": [{"CARD OBJECT"}]
+		"entry": "August flipped 1 coin(s), resulting in 1 heads and 0 tails, for Beginning of Game", 
+		"data": 
+		{
+			"hasData": false,
+       			"noDataString": '',
+       			"source": {"CARD OBJECT"},
+       			"actor": "",
+       			"target": {"CARD OBJECT"}
+		}
 	}],
 	"errors": [""],
   	"gs":
