@@ -38,11 +38,11 @@ Result Json will look something like this:
 		"data": [{CARD OBJECT}]
 	}],
 	"errors": [""]
-  	"gs": 
+  	"gs":
     	{ 
 		"data":
 		{
-			"playerHand":[{CARD OBJECT}],
+			"playerHand":[{"CARD OBJECT"}],
 			"playerDiscard":[{CARD OBJECT}],
 			"playerBench":[{CARD OBJECT}],
 			"playerActivePokemon":[{CARD OBJECT}],
@@ -64,12 +64,12 @@ Result Json will look something like this:
 Each Card Object will have this structure:
 ```json
 { 
-	"numberInSet": '193',
-	"name": 'DarkCity',
-	"series": 'Sun & Moon',
-	"set": 'Unified Minds',
-	"link": '',
-	"type": 'TrainerCard' 
+	"numberInSet": 193,
+	"name": "DarkCity",
+	"series": "Sun & Moon",
+	"set": "Unified Minds",
+	"link": "",
+	"type": "TrainerCard" 
 }
 ```
 
