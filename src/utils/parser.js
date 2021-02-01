@@ -35,7 +35,7 @@ module.exports = {
                     continue;
                 }
 
-                var turn = { number: result[1], entry: result[2].replace('\r', ''), data: null }
+                var turn = { number: result[1], entry: result[2], data: null }
                 response.turns.push(turn);
 
             }
@@ -109,7 +109,7 @@ function validateDebugGameLogLine(line, it) {
                 return [false, "An error occured while parsing the debug game log."];
             }
             
-            var entry = it.next().replace('\r', '');
+            var entry = it.next();
             
             var source = it.next();
 
