@@ -30,7 +30,13 @@ var result = ptcgo-parser.parse(data);
 ```
 
 
-  
+## Versions
+- 0.1.5 (Latest) - Clean data for turn entries and cards
+- 0.1.4 - No major feature addition. Reason for publish: Don't deploy tests to npm, just source code
+- 0.1.3 - No major feature addition. Reason for publish: Don't deploy tests to npm, just source code
+- 0.1.2 - No major feature addition. Reason for publish: Project source code restructure
+- 0.1.1 - Parsing of game log and game state is functional
+- 0.1.0 - Project initialization
 
 ##  Upcoming Features
 - Card JSON Representations will include a link to their specific card entry in the Pokemon Card Database instead of only raw data. Link to database: https://www.pokemon.com/us/pokemon-tcg/pokemon-cards/
