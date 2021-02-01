@@ -35,7 +35,7 @@ module.exports = {
                     continue;
                 }
 
-                var turn = { number: result[1], entry: result[2], data: null }
+                var turn = { number: result[1], entry: result[2].replace('\r', ''), data: null }
                 response.turns.push(turn);
 
             }
@@ -108,7 +108,8 @@ function validateDebugGameLogLine(line, it) {
             if (isNaN(step)) {
                 return [false, "An error occured while parsing the debug game log."];
             }
-            var entry = it.next();
+            
+            var entry = it.next().replace('\r', '');
             
             var source = it.next();
 
@@ -156,10 +157,10 @@ function getSource(it) {
     }
 
     // Begining state: "Source:"
-    var name = it.next();
+    var name = it.next().substring(6);
     var set = it.next();
-    var cardNumberInSet = it.next();
-    var type = it.next();
+    var cardNumberInSet = it.next().substring(12);
+    var type = it.next().substring(11);
     var entityName = it.next();
     var owner = it.next();
     it.next();
@@ -169,12 +170,12 @@ function getSource(it) {
     var seriesString;
     if (setData.length < 2)
     {
-        setString = setData[0];
-        seriesString = setData[0];
+        setString = setData[0].substring(10);
+        seriesString = setData[0].substring(10);
     }
     else
     {
-        seriesString = setData[0];
+        seriesString = setData[0].substring(10);
         setString = setData[1];
     }
     var card = 
