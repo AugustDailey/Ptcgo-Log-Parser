@@ -38,7 +38,7 @@ Result Json will look something like this:
 		"data": 
 		{
 			"hasData": false,
-       			"noDataString": '',
+       			"noDataString": "",
        			"source": {"CARD OBJECT"},
        			"actor": "",
        			"target": {"CARD OBJECT"}
