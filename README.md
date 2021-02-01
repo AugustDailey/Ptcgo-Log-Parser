@@ -21,14 +21,59 @@ var ptcgo-parser = require('ptcgo-log-parser');
 
 ```
 
-Read data from a file, and parse it.
+Read log data from a file, and parse it.
 
 ```bash
 
 var result = ptcgo-parser.parse(data);
 
 ```
-## NPM Page
+Result Json will look something like this:
+```json
+{
+  turns: 
+      [{ 
+				number: int, 
+				entry: string, 
+				data: [{CARD OBJECT}]
+			}],
+	errors: [string]
+  gs: 
+    { 
+			data:
+			{
+				playerHand:[{CARD OBJECT}],
+				playerDiscard:[{CARD OBJECT}],
+				playerBench:[{CARD OBJECT}],
+				playerActivePokemon:[{CARD OBJECT}],
+				opponentHand:[{CARD OBJECT}],
+				opponentDiscard:[{CARD OBJECT}],
+				opponentBench:[{CARD OBJECT}],
+				opponentActivePokemon:[{CARD OBJECT}],
+				lostZone[{CARD OBJECT}],
+				stadium:null,
+				playerDeckCount:0,
+				playerprizeCount:0,
+				opponentDeckCount:0,
+				opponentPrizeCount:0
+			},
+			errors: [string]
+		}
+}
+```
+Each Card Object will have this structure:
+```json
+{ 
+	numberInSet: '193',
+  name: 'DarkCity',
+  series: 'Sun & Moon',
+  set: 'Unified Minds',
+  link: '',
+  type: 'TrainerCard' 
+}
+```
+
+## Npm Url
 https://www.npmjs.com/package/ptcgo-log-parser
 
 ## Versions

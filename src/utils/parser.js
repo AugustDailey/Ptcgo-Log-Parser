@@ -115,7 +115,7 @@ function validateDebugGameLogLine(line, it) {
 
             if (source.includes("No debug data found")) {
                 data.hasData = false;
-                data.noDataString = source;
+                data.reason = source;
             } else if (source.includes("Card not revealed yet so there's no card data")) {
                 data.hasData = true;
                 it.next();
@@ -180,11 +180,11 @@ function getSource(it) {
     }
     var card = 
     {
-        cardNumber: cardNumberInSet,
+        numberInSet: cardNumberInSet,
         name: name,
-        seriesName: seriesString,
-        setName: setString,
-        hasBeenLookedUp: false,
+        series: seriesString,
+        set: setString,
+        link: '',
         type: type
     };
 
