@@ -84,7 +84,10 @@ Each Card Object will have this structure:
 https://www.npmjs.com/package/ptcgo-log-parser
 
 ## Versions
-- 0.1.6 (Latest) - JSON names finalized, sample JSON provided in README.md
+- 1.0.0 (Latest) - Official Release, NPM package with log parsing functionality
+
+## Beta Versions
+- 0.1.6 - JSON names finalized, sample JSON provided in README.md
 - 0.1.5 - Clean data for turn entries and cards
 - 0.1.4 - No major feature addition. Reason for publish: Don't deploy tests to npm, just source code
 - 0.1.3 - No major feature addition. Reason for publish: Don't deploy tests to npm, just source code
